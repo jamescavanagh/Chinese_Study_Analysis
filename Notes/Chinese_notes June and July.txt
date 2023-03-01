@@ -1,0 +1,445 @@
+Notes
+
+- July 8
+  - 打钱 da3 qian2
+    - send money
+  - 汇率 hui4 lv4
+    - exchange rate
+  - 稳定 wen3 ding4
+    - stable
+  - 股票 gu3 piao4
+    - share
+  - 理财投资 li3 cai2 tou2 zi1
+    - invest
+  - 储蓄 chu3 xu4
+    - savings
+  - 长期投资 chang2 qi1 tou2 zi1
+    - long term investment
+  - 交易策略 jiao1 yi4 ce4 lve4
+    - trading strategy
+  - 风险 feng1 xian3
+    - risks
+  - 行业 hang2 ye4
+    - industry
+  - 新兴产业 xin1 xing1 chan3 ye4
+    - emerging industry
+  - 模型 mo2 xing2
+    - model
+  - 基金 ji1 jin1
+  - 政策 zheng4 ce4
+    - policy
+  - 通货膨胀 tong1 huo4 peng2 zhang5/ 通胀 tong1 zhang4
+    - inflation
+  - 元宇宙 yuan2 yu3 zhou4
+    - metaverse
+  - 骗局 pian4 ju2
+    - fraud
+  - 利率 li4 lv4
+  - 利息 li4 xi1
+  - 分行 fen1 hang2
+  - 我需要把我的人民币换成美元，打到美国的银行卡上。
+  - 电汇 dian4 hui4
+- July 5
+  - 策略 ce4 lve4 
+    - strategy
+  - 按钮 an4 niu3
+    - button
+  - 我对他们没有信心
+  - 我不相信他们
+  - 我担心他们
+  - 店面 dian4 mian4
+    - storefront
+  - 市场 shi4 chang3
+    - market
+  - 任务 ren4 wu4
+    - task
+  - 严格 yan2 ge2
+    - strict
+  - 辩护 bian4 hu4
+    - defend
+  - 调情 tiao2 qing2
+    - flirting
+  - 保守 bao3 shou3
+    - conservative
+  - 
+- Programming
+  - Wed, June 29， 2022
+    - 着急 zhao1 ji2
+    - 赖床 lai4 chuang2
+    - 四点半还醒着
+    - 担心 dan1 xin1
+    - 病例 bing4 li4
+    - 症状 zheng4 zhuang4
+    - 讨好 tao3 hao3
+    - 企业文化 qi3 ye4 wen2 hua4
+    - 状态 zhuang4 tai4
+    - 质量 
+    - 数量
+    - 追求精神的
+    - 经验 jing1 yan4
+    - 分辨
+    - 谦虚 qian1 xu1
+    - 积极 ji1 ji2
+    - 经济困难的人
+    - 污渍 wu1 zi4
+    - 责备 ze2 bei4
+    - 力量 li4 liang4
+    - 谎话 huang3 hua4
+      - 善意的谎话
+    - 真相 zhen1 xiang4
+    - 诚实 cheng2 shi2
+    - 高级的诚实是用更高级的方式表达真相
+    - 陷阱 xian4 jing3
+    - 逃跑 tao2 pao3
+    - 土匪 tu2 fei3
+    - 打交道 da3 jiao1 dao4
+    - 思维导图 si1 wei2 dao3 tu2
+  - Thu, Jun 23, 2022 
+    - 列表 lie4 biao3 
+    - 过滤 guo4 lv4
+    - 思路 si1 lu4 
+    - 分享 fen1 xiang3
+    - 假设 jia3 she4
+    - 重复 chong2 fu4
+    - 任意 ren4 yi4
+- Thu, June 23 2022
+  - 降温 jiang4 wen1
+  - 倒了 dao3 le 
+  - 运 yun4
+  - 线上办公 xian4 shang4 ban1 gong1
+  - 一模一样 yi4 mo2 yi2 yang3
+  - 另外
+    - adj.
+    - adv.
+- Wed, June 22, 2022
+  - 裁员 cai2 yuan2 (v.)
+    - layoffs
+  - 解雇 
+    - jie3 gu4
+    - fired
+  - 供给
+    -  gong4 ji3
+  - 需求 
+    - xu1 qiu2
+  - 兼职 
+    - jian1 zhi2
+  - 升职 
+    - sheng1 zhi2
+  - 创业公司 
+    - chuang4 ye4 gong1 si1
+  - 一份工作 
+    - fen4
+  - 工作狂 
+    - gong1 zuo4 kuang2
+  - 美术馆 
+    - mei3 shu4 guan3
+  - 展览 
+    - zhan3 lan3
+  - 意识到 
+    - yi4 shi4 dao4
+  - 职业方向 
+    - zhi2 ye4 fang1 xiang4
+  - 数据分析 
+    - shu4 ju4 fen1 xi1
+  - 数据分析师
+  - 经验 
+    - jing1 yan4 (n.)
+  - 经历
+    -  jing1 li4 (v./n.)
+  - 研究生
+    -  yan1 jiu1 sheng1
+  - 惊讶
+    -  jing1 ya4 
+  - 惊喜
+    -  jing1 xi3
+  - 理论 
+    - li3 lun4
+  - 企业文化 
+    - qi3 ye4 wen2 hua4
+  - 人际关系 
+    - ren2 ji4 guan1 xi
+  - 搞人际关系 
+    - gao3 
+  - 局外人 
+    - ju2 wai4 ren2
+  - 沟通
+    -  gou1 tong1 (v./n.)
+- Thu, June 17, 2022
+  - 多巴胺 duo1 ba1 an1 （n.）
+    - 运动会让人的身体产生多巴胺
+  - 产生
+  - 心理健康 xin1 li3 jian4 kang1
+  - 抑郁症 yi4 yu4 zheng4
+    - depression
+  - 指标 zhi3 biao1
+  - 停车的位置
+    - 停车位
+  - 车道 che1 dao4
+    - lane
+  - 减速 jian3 su4
+    - 遇到红灯需要让卡车减速 rang4 ka3 che1 jian3 su4
+  - 绕过 rao4 guo4
+    - bypass, go around
+  - 耐心 nai4 xin1
+  - 路l症 lu4 nu4 zheng4
+    - road rage
+  - 不一定 bu4 yi2 ding4
+    - 
+  - 女性朋友 nü3 xing4 peng2 you3
+  - 观察 guan1 cha2
+    - observe
+  - 通常 tong1 chang2
+    - 平常，Usually
+  - 信号 xin4 hao4
+    - signal
+  - 心流状态 xin1 liu2 zhuang4 tai4
+    - flow
+    - 电焊可以帮我进入心流状态 
+  - 集中 ji2 zhong2
+    - 我需要高度集中注意力 gao1 du3 ji2 zhong1 zhu4 yi4 li4
+  - 即兴 ji4 xing4 
+    - 即兴创作 
+    - 即兴演讲
+    - 接触即兴 jie1 chu4 ji4 xing4
+  - 手眼协调
+    - Shǒuyǎn xiétiáo
+    - hand-eye coordination
+- Wed, June 15, 2022
+  - 青年旅社 lü3 she4
+  - 明智的决定 ming2 zhi4 de jue2 ding4
+    - 明智的 adj: smart/wise
+  - 睡眠 shui4 mian2
+    - 睡眠质量
+  - 失眠 shi1 mian2
+  - 焦虑 jiao1 lv4
+  - 青少年 qing1 shao4 nian2
+  - 控制欲 kong4 zhi4 yu4
+    - 我妈妈的控制欲很强 kong4 zhi4 yu4 hen2 qiang2
+  - 导航 dao3 hang2: GPS
+  - 无序 wu2 xu4
+  - 创业 chuan4 ye4
+  - 过程 guo4 cheng2
+  - 解决 jie3 jue2
+  - 长远 chang2 yuan3
+  - 人生哲学 ren2 sheng1 zhe1 xue2
+  - 幸福感 xing4 fu2 gan3
+- Fri, Jun 10, 2022 
+  - 荔枝 li4 zhi1
+  - 绿色食品商店 lü4 se4 shi1 pin3 shang1 dian4
+  - 80年代
+  - 90后
+  - 吸收新鲜的事物 xi1 shou1 xin1 xian1 de shi4 wu
+  - 工程师 gong1 cheng2 shi1
+  - 程序员 cheng2 xu4 yuan2
+  - 歧视 qi2 shi4
+  - 才能 cai2 neng2
+  - 天赋 tian1 fu4
+  - 职位 zhi2 wei4
+  - 收入 shou1 ru4
+  - 移民 yi2 min2
+  - 第一代 di4 yi1 dai4
+  - 非技术性的 fei1 ji4 shu4 xing4 de 
+  - 土地 tu3 di4 
+  - 发展 fa1 zhan3
+  - 开发 kai1 fa1
+    - 未开发的
+  - 私人的 si1 ren2 de
+  - 单身 dan1 shen1
+  - 缘分 yuan2 fen4  (n.)
+    - 遇见对的人是缘分 
+- Wed, Jun 8, 2022 
+  - Chinese Tea Transcript
+    - 了解喝茶的入门（19）简单了解茶桌礼仪_哔哩哔哩_bilibili
+    - Part 1 0-30 seconds
+      - Summary：中国茶文化有很多礼仪，这些礼仪往往都伴随着悠久的历史背景，所以我们喝茶时需要注意这些礼仪。
+        - pinyin:  zhōng guó chá wén huà yǒu hěn duō lǐ yí,  zhè xiē lǐ yí wǎng wǎng doū bàn suí zhe yōu jiǔ de lì shǐ bèi jǐng, suǒ yǐ wǒ men hē chá shí xū yào zhù yì zhè xiē lǐ yí 
+        - 往往 wang3 wang3
+        - 悠久的历史 you1 jiu3 de li4 shi3
+      - script
+        - 今天我们来聊一聊喝茶时需要注意的小细节
+          - jīn tiān wǒ men lái liáo yī liáo hē chá shí xū yào zhù yì de xiǎo xì jié
+        - 中国茶文化绝不仅仅是泡一杯好茶
+          - zhōng guó chá wén huà jué bù jǐn jǐn shì pāo yī bēi hǎo chá
+          - 不仅(仅) not only 
+          - 泡茶 pao4 cha2
+        - 还伴随着很多茶礼仪
+          - huán bàn suí zhāo hěn duō chá lǐ yí
+        - 这绝对不是穷讲究
+          - zhè jué duì bú shi qióng jiǎng jiu
+          - 穷讲究 qiong2 jiang3 jiu
+        - 而是在漫长的茶文化发展过程中/约定俗成的行为
+          - ér shì zài màn cháng de chá wén huà fā zhǎn guò chéng zhōng yuē dìng sú chéng de xíng wéi
+          - 过程中 guo4 cheng1 zhong1
+        - 起码出去喝茶时,人家一看知道我们是具备一些茶文化底蕴的
+          - 起码 qi3 ma3  / 至少 zhi4 shao3 : at least
+          - 具备 ju4 bei4
+        - 而不是任人忽悠的小白
+          - ér bú shi rèn rén hū you de xiǎo bái
+          - 任人 ren4 ren2
+          - 忽悠 hu1 you
+    - Part 2 
+      - Summary
+        - 经常有人问倒茶如何回礼。很多人用说“谢谢”或者“举杯子”“扶杯子”的方式，但是这样的礼节不适用于喝茶。通常我们会用叩手礼来作为喝茶回礼。
+      - Script
+        - 我被问过最多的一个问题就是当别人给我倒茶时我该怎么样去回礼
+          - wǒ bèi wèn guò zuì duō de yī gè wèn tí jiù shì dāng bié ren gěi wǒ dǎo chá shí wǒ gāi zěn me yàng qù huí lǐ
+        - 第一种是说谢谢
+          - dì yī zhǒng shì shuì xiè xie
+        - 说谢谢当然没有问题
+          - shuì xiè xie dāng rán méi yǒu wèn tí
+        - 可以当你和朋友正聊的热火朝天，
+          - kě yǐ dāng nǐ hé péng you zhēng liáo de rè huǒ cháo tiān 
+        - 我倒茶给你，你出于礼貌对我所谢谢，
+          - wǒ dǎo chá gěi nǐ  nǐ chū yú lǐ mào duì wǒ suǒ xiè xie  
+        - 这个时候你和朋友的聊天就被迫中止了
+          -  zhè ge shí hou nǐ hé péng you de liáo tiān jiù bèi pò zhōng zhǐ le
+        - 大多数人说完谢谢以后的下一句就是
+          - dà duō shù rén shuì wán xiè xie yǐ hòu de xià yī jù jiù shì
+        - 诶，我刚才正在说什么来着？我刚才说到哪了？
+          - ēi  wǒ gāng cái zhèng zài shuì shén me lái zhe  wǒ gāng cái shuì dào nǎ le 
+        - 第二种呢，是在倒茶时用双手端起杯子
+          - dì èr zhǒng ne  shì zài dǎo chá shí yòng shuāng shǒu duān qǐ bēi zi
+        - 第一这样很烫手
+          - dì yī zhè yàng hěn tàng shǒu
+        - 第二万一我手抖的话会把汤汁滴落到你的手上
+          - dì èr wàn yī wǒ shǒu dǒu de huà huì bǎ tāng zhī dī là dào nǐ de shǒu shǎng
+        - 还有用手去扶杯子也是同理
+          - hái yǒu yòng shǒu qù fú bēi zi yě shì tóng lǐ
+        - 那我们全国通用的一个手势
+          - nā wǒ men quán guó tōng yòng de yī gè shǒu shì
+        - 回礼的手势就是：叩手礼
+          - huí lǐ de shǒu shì jiù shì  kòu shǒu lǐ
+    - Part 3
+      - Summary
+        - 叩首礼来源于一个关于乾隆皇帝的故事
+      - Script
+        - 相传乾隆皇帝下江南微服私访时，去到当地一个茶馆
+        - 店小二行云流水的表演了一套长流壶茶艺
+        - 这种茶艺在我国的四川地区至今还很常见
+        - ……
+  - Vocab
+    - 讲究 
+      - jiang3 jiu
+      - particular about
+      - 我爸爸是个讲究人 adj
+      - 中国人讲究喝茶 v.
+      - 喝茶有很多讲究 n.
+    - 晚辈
+      - wan3bei4
+    - 长辈 
+      - zhang3 bei4
+    - 同辈  
+      - tong2 bei4
+    - 回礼
+      - hui2 li3
+- Fri, Jun 3, 2022 #Chinese 
+  - Goal: Study how to use similes 
+  - vocab
+    - 核酸检测点 he2 suan1 jian3 ce4 dian3
+    - 专家 zhuan1 jia1 (n.)
+      - 我是电脑程序方面的专家
+      - 这位医生是心脏方面的专家
+      - 她是个情感专家
+    - 包括 bao1 kuo4
+    - 居家隔离 ju1 jia1 ge2 li2
+      - 居家服 ju1 jia1 fu2
+    - 行李箱 xing1 li3 xiang1
+      - suit case
+    - 相似的 xiang1 si4 de
+    - 港口 gang3 kou3 (n.)
+    - 衬衫 chen4 shan1
+    - 海运 hai3 yun4
+    - 运输站 yun4 shu1 zhan4
+    - 翅膀 chi4 bang3
+      - wing
+    - 歌声 ge1 sheng1
+      - song
+    - 舞蹈 wu3 dao3
+    - 逼 bi1
+      - 我妈妈逼我上钢琴课 wo3 ma1 bi1 wo3 shang4 gang1 qin2 ke4
+    - 弹钢琴 tan2 gang1 qin2
+    - 技能 ji4 neng2: skill
+    - 小偷 xiao3 tou3:
+      - 小偷偷我的自行车
+    - 细菌 xi4 jun1
+    - 热带地区 re4 dai4 di4 qu1
+    - 尝起来 chang2 qi3 lai2
+      - 这个菜尝起来很奇怪
+  - Sentence Pattern
+    - Sight 
+      - 茶和咖啡在功能上是相似的
+      - 茶和咖啡在功能上很相似
+      - 看起来很好吃
+    - Simile A像……一样
+    - sound 
+      - 她的歌声听起来像天使一样
+      - 听起来好像有小偷 tou1
+    - Smell 闻起来 wen2 qi3 lai2
+      - 你的厨房闻起来好像米其林餐厅 can1 ting1
+      - 这个香水闻起来有花的香味
+      - 这个香水闻起来好像下雨的味道
+    - Tastes like 尝起来 chang2 qi3 lai2
+      - 这个菜尝起来很奇怪
+      - 这个尝起来像我妈妈做的菜
+      - 这个尝起来很地道
+    - 收垃圾的 shou1 la1 ji1 de 
+- Thu, Jun 1, 2022 
+  - Vocab
+    - 注意力差 
+      - Poor attention
+    - 相关的 xiang1 guan1 de
+      - Related To
+    - 相关的话题 hua4 ti2
+    - 动作 dong4 zuo4
+    - 俯卧撑 fu3 wo4 cheng1
+      - Push-up fu3wo4cheng1
+    - 训练胸部肌肉 xun4 lian4 xiong1 bu4 ji1 rou4
+      - Train your chest muscles 
+      - 训练有氧的能力
+      - 无氧训练
+    - 三组（san1 zu3）俯卧撑
+    - 每组25个
+    - 健身单车 jian4 shen1 dan1 che1
+      - Exercise bike jian4 shen1 dan1 che1
+    - 我每天骑（qi2）30分钟健身单车
+    - 跑步机 pao3 bu4 ji1
+    - 心肌 xin1 ji1
+    - 心肺 xin1 fei4
+    - 有氧运动 you3 yang3 yun4 dong4
+    - 椭圆机 tuo3 yuan2 ji1
+    - 手臂 shou3 bi4
+    - 身高 shen1 gao1
+    - 1米85
+    - 体重
+    - 器械 qi4 xie4
+    - 冲刺 chong1 ci4
+      - Sprint
+      - 百米冲刺
+      - 小孩子
+    - 力量训练 li4 liang4 xun4 lian4
+    - 平均地（ping2 jun1 de）训练肌肉群 #语法
+      - Train muscle groups evenly
+      - adj. 平均温度、平均收入
+      - adv. 平均提高40%
+    - 腹部肌肉 fu4 bu4 ji1 rou4
+      - Abdominal muscle 
+    - 腹肌 fu4 ji1
+    - 卧推 wo4 tui1
+    - 弱 ruo4
+    - 天生 tian1 sheng1 (adj./adv.)
+    - 泳姿 yong3 zi1
+    - 自由泳 zi4 you2 yong3
+    - 蛙泳 wa1 yong3
+    - 蝶泳 die2 yong3
+    - 姿势很美 zi1 shi hen3 mei3
+    - 仰泳 yang3 yong3
+    - 划船机 hua2 chuan2 ji1
+    - 手臂力量 shou3 bu4 li4 liang4
+    - 引体向上 yin3 ti3 xiang4 shang4
+    - 举重 ju3 zhong4
+    - 健美 jian4 mei3
+    - 部位 bu4 wei4
+    - 普拉提 pu3 la1 ti2
+    - 瑜伽球 yu2 jia1 qiu2
+  - Sentence Patterns
+    - 保持7.5个小时的睡眠 bao3 chi2 7.5 ge4 xiao3 shi2 de shui4 mian2

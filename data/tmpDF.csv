@@ -1,0 +1,562 @@
+,Unnamed: 0,Vocab,Date,Pinyin,Meaning
+0,0,转一转,2022 10 29,zhuǎnyīzhuǎn,Take a turn
+1,1,语言,2022 10 29,yǔyán,language
+2,2,官方,2022 10 29,guānfāng,official
+3,3,马来语,2022 10 29,mǎláiyǔ,Malay
+4,4,泰米尔语,2022 10 29,tàimǐěryǔ,Tamil
+5,5,反应,2022 10 29,fǎnyìng,reaction
+6,6,方言,2022 10 29,fāngyán,dialect
+7,7,我有衣服只能干洗,2022 10 29,wǒyǒuyīfúzhǐnénggānxǐ,I have clothes and can only dry dry
+8,8,再试一次,2022 10 29,zàishìyīcì,try again
+9,9,物价,2022 10 29,wùjià,Price
+10,10,勉强,2022 10 29,miǎnqiáng,reluctantly
+11,11,如果你不想上课就不要勉强,2022 10 29,rúguǒnǐbùxiǎngshàngkèjìubùyàomiǎnqiáng,Don't force it if you don't want to go to class
+12,12,含蓄,2022 10 29,hánxù,implicit
+13,13,直接,2022 10 29,zhíjiē,direct
+14,14,典型,2022 10 29,diǎnxíng,typical
+15,15,表情包,2022 10 29,biǎoqíngbāo,Emoji
+16,16,打交道,2022 10 29,dǎjiāodào,Deal
+17,17,和日本人打交道,2022 10 29,hérìběnréndǎjiāodào,Talk to the Japanese
+18,18,外向,2022 10 29,wàixiàng,Exterior
+19,19,内向,2022 10 29,nèixiàng,Introverted
+20,20,观点,2022 10 29,guāndiǎn,View
+21,21,升职,2022 10 29,shēngzhí,Promotion
+22,22,成绩,2022 10 29,chéngjī,score
+23,23,表达,2022 10 29,biǎodá,Express
+24,24,理性的,2022 10 29,lǐxìngde,rational
+25,25,感性的,2022 10 29,gǎnxìngde,Sensual
+26,26,证据,2022 10 29,zhèngjù,evidence
+27,27,肢体语言,2022 10 29,zhītǐyǔyán,body language
+28,28,大伯爸爸的哥哥,2022 10 15,dàbóbàbàdegēgē,Uncle's father's brother
+29,29,叔叔爸爸的弟弟,2022 10 15,shūshūbàbàdedìdì,Uncle and Dad's brother
+30,30,航空,2022 10 15,hángkōng,aviation
+31,31,产业,2022 10 15,chǎnyè,industry
+32,32,领导,2022 10 15,lǐngdǎo,lead
+33,33,证书,2022 10 15,zhèngshū,Certificate
+34,34,世界最漂亮的地方之一,2022 10 15,shìjièzùipiāoliàngdedìfāngzhīyī,One of the most beautiful places in the world
+35,35,风格,2022 10 15,fēnggé,style
+36,36,鲸鱼,2022 10 15,jīngyú,whale
+37,37,属于,2022 10 15,shǔyú,belong
+38,38,首都,2022 10 15,shǒudū,capital
+39,39,百叶窗,2022 10 15,bǎiyèchuāng,Shutter
+40,40,即使但是,2022 10 15,jíshǐdànshì,Even
+41,41,新闻,2022 10 15,xīnwén,news
+42,42,兴趣,2022 10 15,xīngqù,interest
+43,43,集中注意力,2022 10 15,jízhōngzhùyìlì,focus
+44,44,独奏,2022 10 9,dúzòu,solo
+45,45,合奏,2022 10 9,hézòu,ensemble
+46,46,球赛,2022 10 9,qíusài,match
+47,47,群体免疫,2022 10 9,qúntǐmiǎnyì,Group immunity
+48,48,舅妈,2022 10 9,jìumā,Aunt
+49,49,舅舅,2022 10 9,jìujìu,uncle
+50,50,硕士,2022 10 9,shuòshì,master
+51,51,校长,2022 10 9,xiàocháng,headmaster
+52,52,症状,2022 10 9,zhèngzhuàng,symptom
+53,53,路怒症,2022 10 9,lùnùzhèng,Road anger
+54,54,例句,2022 10 9,lìjù,Example sentence
+55,55,退步,2022 10 9,tùibù,Retreat
+56,56,悠久的历史,2022 10 9,yōujǐudelìshǐ,a long history
+57,57,典型,2022 10 9,diǎnxíng,typical
+58,58,馅儿,2022 10 9,xiànér,stuffing
+59,59,中秋节,2022 10 9,zhōngqīujié,Moon Festival
+60,60,月饼,2022 10 9,yuèbǐng,moon cake
+61,61,保质期,2022 10 9,bǎozhíqī,Shelf life
+62,62,保修期,2022 10 9,bǎoxīuqī,warranty period
+63,63,过期,2022 10 9,guòqī,Expired
+64,64,病例,2022 9 2,bìnglì,Case
+65,65,增长一倍以上,2022 9 2,zēngchángyībèiyǐshàng,Grow more than double
+66,66,报告,2022 9 2,bàogào,Report
+67,67,虽然但是,2022 9 2,sūirándànshì,"However, although"
+68,68,未来,2022 9 2,wèilái,future
+69,69,区别,2022 9 2,qūbié,the difference
+70,70,跟的区别是,2022 9 2,gēndeqūbiéshì,The difference is
+71,71,算是,2022 9 1,suànshì,Be regarded as
+72,72,我们算是朋友,2022 9 1,wǒmensuànshìpéngyǒu,We are friends
+73,73,汇率,2022 9 1,hùilv̀,exchange rate
+74,74,人民币汇率降低用人民币可以换到更多的美元,2022 9 1,rénmínbìhùilv̀jiàngdīyòngrénmínbìkěyǐhuàndàogèngduōdeměiyuán,Renminbi exchange rate reduction can be exchanged to more US dollars
+75,75,社保,2022 9 1,shèbǎo,Social security
+76,76,潮,2022 8 31,cháo,tide
+77,77,湿疹,2022 8 31,shīzhěn,eczema
+78,78,拖把,2022 8 31,tuōbǎ,mop
+79,79,细腻,2022 8 31,xìnì,exquisite
+80,80,湿的地方皮肤比较好,2022 8 31,shīdedìfāngpífūbǐjiàohǎo,The skin in the wet place is better
+81,81,粗糙,2022 8 31,cūcāo,Rough
+82,82,干的地方皮肤比较粗糙,2022 8 31,gāndedìfāngpífūbǐjiàocūcāo,The skin is relatively rough
+83,83,拥挤,2022 8 31,yǒngjǐ,Crowded
+84,84,生活用品,2022 8 31,shēnghuóyòngpǐn,Daily necessities
+85,85,自动贩卖机,2022 8 31,zìdòngfànmàijī,Vendor
+86,86,收纳箱,2022 8 31,shōunàxiāng,Storage Box
+87,87,行李箱,2022 8 31,xínglǐxiāng,suitcase
+88,88,极简主义,2022 8 31,jíjiǎnzhǔyì,Minimalism
+89,89,记录,2022 8 31,jìlù,Record
+90,90,营养品,2022 8 31,yíngyǎngpǐn,Nutrition
+91,91,益生菌,2022 8 31,yìshēngjūn,Probiotics
+92,92,抗氧化,2022 8 31,kàngyǎnghuà,anti-oxidation
+93,93,红景天,2022 8 31,hóngjǐngtiān,Red scenery
+94,94,保养,2022 8 31,bǎoyǎng,maintainance
+95,95,有效率,2022 8 31,yǒuxiàolv̀,Efficient
+96,96,体检,2022 8 31,tǐjiǎn,Physical examination
+97,97,他们需要停产一个星期,2022 8 24,tāmenxūyàotíngchǎnyīgèxīngqī,They need to stop production for a week
+98,98,费用很高,2022 8 24,fèiyònghěngāo,High expense
+99,99,误解,2022 8 24,wùjiě,misunderstanding
+100,100,必要条件,2022 8 24,bìyàotiáojiàn,Necessary conditions
+101,101,能够抵抗地震的楼,2022 8 24,nénggòudǐkàngdìzhèndelóu,Building that can resist earthquakes
+102,102,海底隧道可以的在很大的地震中生存,2022 8 24,hǎidǐsùidàokěyǐdezàihěndàdedìzhènzhōngshēngcún,The underwater tunnel can survive in a large earthquake
+103,103,局外人,2022 8 24,júwàirén,outsider
+104,104,他想要宰我,2022 8 24,tāxiǎngyàozǎiwǒ,He wants to slaughter me
+105,105,假设,2022 8 24,jiǎshè,Assume
+106,106,间接,2022 8 24,jiānjiē,indirect
+107,107,通过听别人问问题来间接了解他们的想法,2022 8 24,tōngguòtīngbiérénwènwèntíláijiānjiēlejiětāmendexiǎngfǎ,I understand their thoughts indirectly by listening to others asking questions
+108,108,教训,2022 8 24,jiàoxùn,lesson
+109,109,工资,2022 8 24,gōngzī,salary
+110,110,他们只给我一半的工资他们在耍我,2022 8 24,tāmenzhǐgěiwǒyībàndegōngzītāmenzàishuǎwǒ,"They only give me half of their salary, they are playing with me"
+111,111,信息,2022 8 24,xìnxī,information
+112,112,另一方面,2022 8 24,lìngyīfāngmiàn,on the other hand
+113,113,细节,2022 8 24,xìjié,detail
+114,114,思路,2022 8 24,sīlù,Thinking
+115,115,这是一个信任度高的社会,2022 8 24,zhèshìyīgèxìnrèndùgāodeshèhùi,This is a society with high trust
+116,116,健全的法律,2022 8 24,jiànquándefǎlv̀,Sound law
+117,117,案件,2022 8 24,ànjiàn,case
+118,118,组装,2022 8 24,zǔzhuāng,Assemble
+119,119,怀疑,2022 8 24,huáiyí,Suspect
+120,120,批发,2022 8 24,pīfā,wholesale
+121,121,浙江义乌,2022 8 24,zhèjiāngyìwū,Zhejiang Yiwu
+122,122,内疚,2022 8 18,nèijìu,Guilty
+123,123,碰面,2022 8 18,pèngmiàn,meet
+124,124,我和朋友在公园碰面,2022 8 18,wǒhépéngyǒuzàigōngyuánpèngmiàn,My friend and I met in the park
+125,125,之后,2022 8 18,zhīhòu,after
+126,126,我们在一个很好的饭馆吃饭之后来到一个湖边,2022 8 18,wǒmenzàiyīgèhěnhǎodefànguǎnchīfànzhīhòuláidàoyīgèhúbiān,We came to a lake after eating in a good restaurant
+127,127,藏地,2022 8 18,cángdì,Land
+128,128,饲料,2022 8 18,sìliào,feed
+129,129,牛在大城市吃饲料不吃草,2022 8 18,níuzàidàchéngshìchīsìliàobùchīcǎo,Cow eats feed in big cities and does not eat grass
+130,130,工业农场,2022 8 18,gōngyènóngcháng,Industrial farm
+131,131,牧场,2022 8 18,mùcháng,pasture
+132,132,海拔米,2022 8 18,hǎibámǐ,Altitude
+133,133,支持生态系统,2022 8 18,zhīchíshēngtàixìtǒng,Support ecosystem
+134,134,对环境的伤害小一点,2022 8 18,dùihuánjìngdeshānghàixiǎoyīdiǎn,Little harm to the environment
+135,135,高温预警,2022 8 18,gāowēnyùjǐng,High -temperature warning
+136,136,高原反应高反,2022 8 18,gāoyuánfǎnyìnggāofǎn,High -reaction
+137,137,不适合我,2022 8 18,bùshìhéwǒ,Not suitable for me
+138,138,兼职,2022 8 18,jiānzhí,part time
+139,139,我的兼职工作停了,2022 8 18,wǒdejiānzhígōngzuòtíngle,My part -time worker stopped
+140,140,我三年没见过家人了,2022 8 18,wǒsānniánméijiànguòjiārénle,I have never seen my family in three years
+141,141,很多人觉得深圳是文化荒漠,2022 8 18,hěnduōrénjuédéshēnzhènshìwénhuàhuāngmò,Many people think Shenzhen is a cultural desert
+142,142,社交,2022 8 18,shèjiāo,social contact
+143,143,我不喜欢和很社交的人交朋友,2022 8 18,wǒbùxǐhuānhéhěnshèjiāoderénjiāopéngyǒu,I don't like to make friends with people who are very socialized
+144,144,受人欢迎的人,2022 8 18,shòurénhuānyíngderén,Welcomed
+145,145,决定,2022 8 18,juédìng,Decide
+146,146,他们理解我的决定,2022 8 18,tāmenlǐjiěwǒdejuédìng,They understand my decision
+147,147,我们尝试了租车去那里,2022 8 18,wǒmenchángshìlezūchēqùnàlǐ,We tried to rent a car there
+148,148,漫山遍野都是花,2022 8 18,mànshānbiànyědūshìhuā,The mountains are all flowers
+149,149,土路,2022 8 18,tǔlù,Soil road
+150,150,调头,2022 8 18,diàotóu,Head up
+151,151,在土路很难调头,2022 8 18,zàitǔlùhěnnándiàotóu,It's hard to get head on Tu Road
+152,152,历史古迹,2022 8 18,lìshǐgǔjī,historical landmark
+153,153,这个寺庙是个历史古迹,2022 8 18,zhègèsìmiàoshìgèlìshǐgǔjī,This temple is a historical monument
+154,154,僧人很高兴地接待我们,2022 8 18,sēngrénhěngāoxīngdìjiēdàiwǒmen,The monk is very happy to receive us
+155,155,他们会有麻烦,2022 8 18,tāmenhùiyǒumáfán,They will have trouble
+156,156,古董,2022 8 18,gǔdǒng,antique
+157,157,恭喜你成功了,2022 8 18,gōngxǐnǐchénggōngle,Congratulations on you succeed
+158,158,我理解你的意思但是这和我们的话题没有关系,2022 7 28,wǒlǐjiěnǐdeyìsīdànshìzhèhéwǒmendehuàtíméiyǒuguānxì,"I understand what you mean, but this has nothing to do with our topic"
+159,159,我理解你的意思但是我们在讨论两件不一样的事情,2022 7 28,wǒlǐjiěnǐdeyìsīdànshìwǒmenzàitǎolùnliǎngjiànbùyīyángdeshìqíng,"I understand what you mean, but we are discussing two different things"
+160,160,上海是世界上最大的港口城市之一,2022 7 28,shànghǎishìshìjièshàngzùidàdegǎngkǒuchéngshìzhīyī,Shanghai is one of the largest port cities in the world
+161,161,上海是世界上十个最大的港口之一,2022 7 28,shànghǎishìshìjièshàngshígèzùidàdegǎngkǒuzhīyī,Shanghai is one of the ten largest ports in the world
+162,162,轮船,2022 7 28,lúnchuán,Ship
+163,163,睡的比猪死,2022 7 28,shùidebǐzhūsǐ,Sleeping is better than pigs
+164,164,开发,2022 7 28,kāifā,Develop
+165,165,飞行模式,2022 7 28,fēixíngmóshì,Flight mode
+166,166,展示,2022 7 28,zhǎnshì,exhibit
+167,167,烟花,2022 7 28,yānhuā,fireworks
+168,168,临时,2022 7 28,línshí,temporary
+169,169,早午饭,2022 7 27,zǎowǔfàn,brunch
+170,170,很容易找到位置,2022 7 27,hěnróngyìzhǎodàowèizhì,Very easy to find a position
+171,171,声调,2022 7 27,shēngdiào,tone
+172,172,闹笑话,2022 7 27,nàoxiàohuà,Laugha
+173,173,隐藏,2022 7 27,yǐncáng,hide
+174,174,大无语,2022 7 27,dàwúyǔ,Speechless
+175,175,当你的老板做了一些让你生气的事情但是你不能骂回去这时候可以说大无语,2022 7 27,dāngnǐdelǎobǎnzuòleyīxiēràngnǐshēngqìdeshìqíngdànshìnǐbùnéngmàhúiqùzhèshíhòukěyǐshuōdàwúyǔ,"When your boss did something that made you angry, but you can’t scold you back to say that you can say speechless"
+176,176,吐槽,2022 7 27,tǔcáo,Make complaints
+177,177,凡尔赛,2022 7 27,fáněrsài,Versailles
+178,178,躺平,2022 7 27,tǎngpíng,Lying down
+179,179,拴,2022 7 27,shuān,Tie
+180,180,我真的栓,2022 7 27,wǒzhēndeshuān,I really
+181,181,土,2022 7 27,tǔ,earth
+182,182,洋气,2022 7 27,yángqì,Western style
+183,183,阳气太重,2022 7 27,yángqìtàizhòng,Yang Qi is too heavy
+184,184,阴气太重,2022 7 27,yīnqìtàizhòng,Yinqi is too heavy
+185,185,澳洲,2022 7 27,àozhōu,Australia
+186,186,处理,2022 7 27,chùlǐ,deal with
+187,187,有经验,2022 7 27,yǒujīngyàn,has experience
+188,188,洗涤灵,2022 7 22,xǐdílíng,Washing spirit
+189,189,整天,2022 7 22,zhěngtiān,All day
+190,190,滋生细菌,2022 7 22,zīshēngxìjūn,Breeding bacteria
+191,191,淡,2022 7 22,dàn,light
+192,192,咖啡很浓茶比较淡,2022 7 22,kāfēihěnnóngchábǐjiàodàn,Coffee is very strong tea and light
+193,193,过于兴奋,2022 7 22,guòyúxīngfèn,Too excited
+194,194,咖啡让我过于兴奋,2022 7 22,kāfēiràngwǒguòyúxīngfèn,Coffee makes me too excited
+195,195,心惊肉跳,2022 7 22,xīnliángròutiào,Shocking
+196,196,你做过的最调皮的事是什么,2022 7 22,nǐzuòguòdezùidiàopídeshìshìshíyāo,What are the most naughty things you have done
+197,197,反应,2022 7 22,fǎnyìng,reaction
+198,198,他的朋友是什么反应,2022 7 22,tādepéngyǒushìshíyāofǎnyìng,What is his friend's reaction
+199,199,期末考试,2022 7 22,qīmòkǎoshì,Final exam
+200,200,炸药,2022 7 22,zhàyào,Explosive
+201,201,理科,2022 7 22,lǐkē,science
+202,202,从我小的时候开始,2022 7 22,cóngwǒxiǎodeshíhòukāishǐ,Starting from my childhood
+203,203,戒烟,2022 7 22,jièyān,Quit smoking
+204,204,毒品,2022 7 22,dúpǐn,poison
+205,205,病人,2022 7 22,bìngrén,patient
+206,206,安眠药,2022 7 22,ānmiányào,Sleeping pill
+207,207,处方,2022 7 22,chùfāng,prescription
+208,208,执照,2022 7 22,zhízhào,license
+209,209,申请执照的流程很严格,2022 7 22,shēnqǐngzhízhàodelíuchénghěnyángé,The process of applying for a license is strict
+210,210,非处方药,2022 7 22,fēichùfāngyào,Non-prescription drugs
+211,211,化学成分,2022 7 22,huàxuéchéngfēn,chemical composition
+212,212,研发成本,2022 7 22,yánfāchéngběn,R & D cost
+213,213,如果没有执照他们前期投入的成本就浪费了,2022 7 22,rúguǒméiyǒuzhízhàotāmenqiánqītóurùdechéngběnjìulàngfèile,"If there is no license, the cost they invested in the early stage would be wasted"
+214,214,成本,2022 7 22,chéngběn,cost
+215,215,浪费,2022 7 22,làngfèi,waste
+216,216,效果,2022 7 22,xiàoguǒ,Effect
+217,217,保健品,2022 7 22,bǎojiànpǐn,Health products
+218,218,素食主义者,2022 7 22,sùshízhǔyìzhě,vegetarian
+219,219,严格的素食主义者,2022 7 22,yángédesùshízhǔyìzhě,Strict vegetarian
+220,220,锅边素,2022 7 22,guōbiānsù,Pista
+221,221,夏令时,2022 7 15,xiàlìngshí,summer time
+222,222,病例,2022 7 15,bìnglì,Case
+223,223,结束,2022 7 15,jiéshù,Finish
+224,224,签证,2022 7 15,qiānzhèng,visa
+225,225,群体免疫,2022 7 15,qúntǐmiǎnyì,Group immunity
+226,226,美国已经群体免疫了,2022 7 15,měiguóyǐjīngqúntǐmiǎnyìle,The United States is already immune
+227,227,志愿者,2022 7 15,zhìyuànzhě,volunteer
+228,228,批准,2022 7 15,pīzhǔn,approve
+229,229,批准的疫苗,2022 7 15,pīzhǔndeyìmiáo,Approved vaccine
+230,230,症状,2022 7 15,zhèngzhuàng,symptom
+231,231,因为打了疫苗他的症状不太严重,2022 7 15,yīnwèidǎleyìmiáotādezhèngzhuàngbùtàiyánzhòng,"Because his symptoms have been vaccinated, his symptoms are not serious"
+232,232,应用于,2022 7 15,yìngyòngyú,Applied
+233,233,人工智能可以应用于药物学技术,2022 7 15,réngōngzhìnéngkěyǐyìngyòngyúyàowùxuéjìzhú,Artificial intelligence can be applied to pharmaceutical technology
+234,234,过去,2022 7 15,guòqù,past
+235,235,在过去需要用试错的方式来研究新的药物,2022 7 15,zàiguòqùxūyàoyòngshìcuòdefāngshìláiyánjīuxīndeyàowù,"In the past, you need to use trial and error to study new drugs"
+236,236,预测,2022 7 15,yùcè,predict
+237,237,人工智能可以帮助预测药品是否有毒,2022 7 15,réngōngzhìnéngkěyǐbāngzhùyùcèyàopǐnshìfǒuyǒudú,Artificial intelligence can help predict whether drugs are toxic
+238,238,普及,2022 7 15,pǔjí,universal
+239,239,电脑已经在中国普及了,2022 7 15,diànnǎoyǐjīngzàizhōngguópǔjíle,Computers are popular in China
+240,240,放心,2022 7 15,fàngxīn,rest assured
+241,241,决策,2022 7 15,juécè,decision making
+242,242,每个决策都有机会成本,2022 7 15,měigèjuécèdūyǒujīhùichéngběn,Every decision has a chance to cost
+243,243,风险,2022 7 15,fēngxiǎn,risk
+244,244,继续,2022 7 15,jìxù,continue
+245,245,体验很差,2022 7 15,tǐyànhěnchà,Poor experience
+246,246,小说,2022 7 15,xiǎoshuō,novel
+247,247,调料,2022 7 14,diàoliào,seasoning
+248,248,调料是亚洲传来的,2022 7 14,diàoliàoshìyàzhōuchuánláide,The seasoning comes from Asia
+249,249,对外贸易逆差,2022 7 14,dùiwàimàoyìnìchà,Foreign trade deficit
+250,250,原料,2022 7 14,yuánliào,raw material
+251,251,法国人喜欢保留原料原有的味道,2022 7 14,fǎguórénxǐhuānbǎolíuyuánliàoyuányǒudewèidào,The French like to retain the original taste of the raw material
+252,252,成百上千,2022 7 14,chéngbǎishàngqiān,Thousands of thousands
+253,253,每个中午有成百上千的外卖,2022 7 14,měigèzhōngwǔyǒuchéngbǎishàngqiāndewàimài,There are hundreds of takeaways at noon
+254,254,成本,2022 7 14,chéngběn,cost
+255,255,刚需,2022 7 14,gāngxū,Just need
+256,256,人们中午吃饭是刚需,2022 7 14,rénmenzhōngwǔchīfànshìgāngxū,People eating at noon is just needed
+257,257,必需品,2022 7 14,bìxūpǐn,necessity
+258,258,订单,2022 7 14,dìngdān,Order
+259,259,不要脸脸皮很厚,2022 7 14,bùyàoliǎnliǎnpíhěnhòu,Faceable and thick -skinned
+260,260,锅,2022 7 14,guō,pot
+261,261,电饭锅,2022 7 14,diànfànguō,Rice cooker
+262,262,网格,2022 7 14,wǎnggé,grid
+263,263,海拔,2022 7 14,hǎibá,altitude
+264,264,漫画,2022 7 14,mànhuà,comics
+265,265,我想看关于功夫的漫画书,2022 7 14,wǒxiǎngkànguānyúgōngfūdemànhuàshū,I want to read a comic book about Kung Fu
+266,266,世界名著,2022 7 14,shìjièmíngzhù,World famous
+267,267,世界儿童文学经典丛书,2022 7 14,shìjièértóngwénxuéjīngdiǎncóngshū,World Children's Literature Classic Series
+268,268,非虚构,2022 7 14,fēixūgōu,Non -fiction
+269,269,社会科学类社科类,2022 7 14,shèhùikēxuélèishèkēlèi,Social Sciences Social Sciences
+270,270,设备,2022 7 13,shèbèi,equipment
+271,271,取代,2022 7 13,qǔdài,replace
+272,272,自动化技术可能会取代人工但是技术也会产生新的岗位,2022 7 13,zìdònghuàjìzhúkěnénghùiqǔdàiréngōngdànshìjìzhúyěhùichǎnshēngxīndegǎngwèi,"Automation technology may replace artificially, but technology will also produce new positions"
+273,273,优点,2022 7 13,yōudiǎn,advantage
+274,274,我们人类的优点是有创造力,2022 7 13,wǒmenrénlèideyōudiǎnshìyǒuchuàngzàolì,The advantage of our human beings is that it is creative
+275,275,动力,2022 7 13,dònglì,power
+276,276,我没有动力帮助公司,2022 7 13,wǒméiyǒudònglìbāngzhùgōngsī,I have no motivation to help the company
+277,277,行为,2022 7 13,xíngwèi,Behavior
+278,278,这样的行为不好,2022 7 13,zhèyángdexíngwèibùhǎo,Such behavior is not good
+279,279,老一辈,2022 7 13,lǎoyībèi,Older generation
+280,280,我们不是老一辈我们不应该继续用他们教育孩子的方式,2022 7 13,wǒmenbùshìlǎoyībèiwǒmenbùyìnggāijìxùyòngtāmenjiàoyùháizǐdefāngshì,We are not the older generation. We should not continue to educate their children
+281,281,鲨鱼,2022 7 13,shāyú,shark
+282,282,模仿,2022 7 13,mófǎng,imitate
+283,283,因为小孩子会模仿大人所以大人需要有和小孩子一样的行为准则,2022 7 13,yīnwèixiǎoháizǐhùimófǎngdàrénsuǒyǐdàrénxūyàoyǒuhéxiǎoháizǐyīyángdexíngwèizhǔnzé,"Because children will imitate adults, adults need to have the same behavioral guidelines as children"
+284,284,桌椅,2022 7 13,zhuōyǐ,Table and chair
+285,285,遵守,2022 7 13,zūnshǒu,obey
+286,286,不可以让桌椅发出声音这是他们必须遵守的规则,2022 7 13,bùkěyǐràngzhuōyǐfāchūshēngyīnzhèshìtāmenbìxūzūnshǒudegūizé,Can't make tables and chairs make a sound. This is the rule they must follow
+287,287,违反,2022 7 13,wéifǎn,violation
+288,288,如果他们违反规则我需要警告他们,2022 7 13,rúguǒtāmenwéifǎngūizéwǒxūyàojǐnggàotāmen,"If they violate the rules, I need to warn them"
+289,289,原则,2022 7 13,yuánzé,in principle
+290,290,这是我对待小孩子最重要的原则,2022 7 13,zhèshìwǒdùidàixiǎoháizǐzùizhòngyàodeyuánzé,This is the most important principle I treat children
+291,291,执行,2022 7 13,zhíxíng,implement
+292,292,如果不能执行就不要建立这个规则,2022 7 13,rúguǒbùnéngzhíxíngjìubùyàojiànlìzhègègūizé,"If you can't execute it, don't establish this rule"
+293,293,打钱,2022 7 13,dǎqián,Make money
+294,294,汇率,2022 7 13,hùilv̀,exchange rate
+295,295,稳定,2022 7 13,wěndìng,Stablize
+296,296,股票,2022 7 13,gǔpiào,stock
+297,297,理财投资,2022 7 13,lǐcáitóuzī,Financial investment
+298,298,储蓄,2022 7 13,chǔxù,Savings
+299,299,长期投资,2022 7 13,chángqītóuzī,Long-term investment
+300,300,交易策略,2022 7 13,jiāoyìcèlvè,Trading straregy
+301,301,风险,2022 7 13,fēngxiǎn,risk
+302,302,行业,2022 7 13,xíngyè,industry
+303,303,新兴产业,2022 7 13,xīnxīngchǎnyè,Emerging industry
+304,304,模型,2022 7 13,móxíng,Model
+305,305,基金,2022 7 13,jījīn,fund
+306,306,政策,2022 7 13,zhèngcè,policy
+307,307,通货膨胀通胀,2022 7 13,tōnghuòpéngzhàngtōngzhàng,Inflation and inflation
+308,308,元宇宙,2022 7 13,yuányǔzhòu,Yuan universe
+309,309,骗局,2022 7 13,piànjú,scam
+310,310,利率,2022 7 13,lìlv̀,interest rate
+311,311,利息,2022 7 13,lìxī,Interest
+312,312,分行,2022 7 13,fēnxíng,Branch
+313,313,我需要把我的人民币换成美元打到美国的银行卡上,2022 7 13,wǒxūyàobǎwǒderénmínbìhuànchéngměiyuándǎdàoměiguódeyínxíngqiǎshàng,I need to replace my RMB to the US dollar to the US bank card
+314,314,电汇,2022 7 13,diànhùi,wire transfer
+315,315,策略,2022 7 5,cèlvè,Strategy
+316,316,按钮,2022 7 5,ànnǐu,Button
+317,317,我对他们没有信心,2022 7 5,wǒdùitāmenméiyǒuxìnxīn,I have no confidence in them
+318,318,我不相信他们,2022 7 5,wǒbùxiāngxìntāmen,I don't believe them
+319,319,我担心他们,2022 7 5,wǒdànxīntāmen,I worry about them
+320,320,店面,2022 7 5,diànmiàn,Store
+321,321,市场,2022 7 5,shìcháng,market
+322,322,任务,2022 7 5,rènwù,Task
+323,323,严格,2022 7 5,yángé,strict
+324,324,辩护,2022 7 5,biànhù,defend
+325,325,调情,2022 7 5,diàoqíng,flirt
+326,326,保守,2022 7 5,bǎoshǒu,keep
+327,327,着急,2022 6 29,zháojí,in a hurry
+328,328,赖床,2022 6 29,làichuáng,Bed
+329,329,四点半还醒着,2022 6 29,sìdiǎnbànhuánxǐngzháo,Wake up at 4:30
+330,330,担心,2022 6 29,dànxīn,Worry
+331,331,病例,2022 6 29,bìnglì,Case
+332,332,症状,2022 6 29,zhèngzhuàng,symptom
+333,333,讨好,2022 6 29,tǎohǎo,Please
+334,334,企业文化,2022 6 29,qǐyèwénhuà,company culture
+335,335,状态,2022 6 29,zhuàngtài,state
+336,336,质量,2022 6 29,zhíliàng,quality
+337,337,数量,2022 6 29,shùliàng,quantity
+338,338,追求精神的,2022 6 29,zhūiqíujīngshénde,Pursuing
+339,339,经验,2022 6 29,jīngyàn,experience
+340,340,分辨,2022 6 29,fēnbiàn,Distinguish
+341,341,谦虚,2022 6 29,qiānxū,modesty
+342,342,积极,2022 6 29,jījí,positive
+343,343,经济困难的人,2022 6 29,jīngjìkùnnánderén,People with economic difficulties
+344,344,污渍,2022 6 29,wūzì,Stain
+345,345,责备,2022 6 29,zébèi,blame
+346,346,力量,2022 6 29,lìliàng,strength
+347,347,谎话,2022 6 29,huǎnghuà,lie
+348,348,善意的谎话,2022 6 29,shànyìdehuǎnghuà,Good faithful lie
+349,349,真相,2022 6 29,zhēnxiāng,the truth
+350,350,诚实,2022 6 29,chéngshí,honest
+351,351,高级的诚实是用更高级的方式表达真相,2022 6 29,gāojídechéngshíshìyònggènggāojídefāngshìbiǎodázhēnxiāng,High -level honesty is to express the truth in a more advanced way
+352,352,陷阱,2022 6 29,xiànjǐng,trap
+353,353,逃跑,2022 6 29,táopǎo,Run away
+354,354,土匪,2022 6 29,tǔfěi,bandit
+355,355,打交道,2022 6 29,dǎjiāodào,Deal
+356,356,思维导图,2022 6 29,sīwéidǎotú,mind Mapping
+357,357,列表,2022 6 23,lièbiǎo,List
+358,358,过滤,2022 6 23,guòlv̀,filter
+359,359,思路,2022 6 23,sīlù,Thinking
+360,360,分享,2022 6 23,fēnxiǎng,share
+361,361,假设,2022 6 23,jiǎshè,Assume
+362,362,重复,2022 6 23,zhòngfù,repeat
+363,363,任意,2022 6 23,rènyì,Arbitrarily
+364,364,降温,2022 6 23,jiàngwēn,Cool down
+365,365,倒了,2022 6 23,dǎole,fall down
+366,366,运,2022 6 23,yùn,transport
+367,367,线上办公,2022 6 23,xiànshàngbàngōng,Online office
+368,368,一模一样,2022 6 23,yīmóyīyáng,Exactly the same
+369,369,另外,2022 6 23,lìngwài,in addition
+370,370,裁员,2022 6 22,cáiyuán,Lay off
+371,371,解雇,2022 6 22,jiěgù,Dismiss
+372,372,供给,2022 6 22,gōnggěi,supply
+373,373,需求,2022 6 22,xūqíu,need
+374,374,兼职,2022 6 22,jiānzhí,part time
+375,375,升职,2022 6 22,shēngzhí,Promotion
+376,376,创业公司,2022 6 22,chuàngyègōngsī,Start-up companies
+377,377,一份工作,2022 6 22,yīfèngōngzuò,a job
+378,378,工作狂,2022 6 22,gōngzuòkuáng,Workaholic
+379,379,美术馆,2022 6 22,měizhúguǎn,Art gallery
+380,380,展览,2022 6 22,zhǎnlǎn,exhibition
+381,381,意识到,2022 6 22,yìshìdào,Aware
+382,382,职业方向,2022 6 22,zhíyèfāngxiàng,Career
+383,383,数据分析,2022 6 22,shùjùfēnxī,data analysis
+384,384,数据分析师,2022 6 22,shùjùfēnxīshī,Data Analyst
+385,385,经验,2022 6 22,jīngyàn,experience
+386,386,经历,2022 6 22,jīnglì,experience
+387,387,研究生,2022 6 22,yánjīushēng,postgraduate
+388,388,惊讶,2022 6 22,liángyà,surprise
+389,389,惊喜,2022 6 22,liángxǐ,surprise
+390,390,理论,2022 6 22,lǐlùn,theory
+391,391,企业文化,2022 6 22,qǐyèwénhuà,company culture
+392,392,人际关系,2022 6 22,rénjìguānxì,Interpersonal relationship
+393,393,搞人际关系,2022 6 22,gǎorénjìguānxì,Interpersonal relationship
+394,394,局外人,2022 6 22,júwàirén,outsider
+395,395,沟通,2022 6 22,gōutōng,communicate
+396,396,多巴胺,2022 6 17,duōbāè,Dopamine
+397,397,运动会让人的身体产生多巴胺,2022 6 17,yùndònghùiràngréndeshēntǐchǎnshēngduōbāè,Games will make people's body produce dopamine
+398,398,产生,2022 6 17,chǎnshēng,produce
+399,399,心理健康,2022 6 17,xīnlǐjiànkāng,Psychological health
+400,400,抑郁症,2022 6 17,yìyùzhèng,depression
+401,401,指标,2022 6 17,zhǐbiāo,index
+402,402,停车的位置,2022 6 17,tíngchēdewèizhì,Parking position
+403,403,停车位,2022 6 17,tíngchēwèi,parking space
+404,404,车道,2022 6 17,chēdào,Lane
+405,405,减速,2022 6 17,jiǎnsù,slow down
+406,406,遇到红灯需要让卡车减速,2022 6 17,yùdàohóngdēngxūyàoràngqiǎchējiǎnsù,You need to decelerate the truck when you encounter a red light
+407,407,绕过,2022 6 17,ràoguò,Bypassed
+408,408,耐心,2022 6 17,nàixīn,patience
+409,409,路症,2022 6 17,lùzhèng,Path
+410,410,不一定,2022 6 17,bùyīdìng,uncertain
+411,411,女性朋友,2022 6 17,nv̌xìngpéngyǒu,Female friend
+412,412,观察,2022 6 17,guānchá,Observed
+413,413,通常,2022 6 17,tōngcháng,usually
+414,414,平常,2022 6 17,píngcháng,usually
+415,415,信号,2022 6 17,xìnhào,Signal
+416,416,心流状态,2022 6 17,xīnlíuzhuàngtài,State of mind
+417,417,电焊可以帮我进入心流状态,2022 6 17,diànhànkěyǐbāngwǒjìnrùxīnlíuzhuàngtài,Welding can help me enter the state of heart flow
+418,418,集中,2022 6 17,jízhōng,concentrated
+419,419,我需要高度集中注意力,2022 6 17,wǒxūyàogāodùjízhōngzhùyìlì,I need highly concentrated attention
+420,420,即兴,2022 6 17,jíxīng,impromptu
+421,421,即兴创作,2022 6 17,jíxīngchuàngzuò,Improvisation
+422,422,即兴演讲,2022 6 17,jíxīngyǎnjiǎng,talk show
+423,423,接触即兴,2022 6 17,jiēhóngjíxīng,Improvisation
+424,424,手眼协调,2022 6 17,shǒuyǎnxiédiào,Hand -eye coordination
+425,425,青年旅社,2022 6 15,qīngniánlv̌shè,Youth Hotel
+426,426,明智的决定,2022 6 15,míngzhìdejuédìng,a wise decision
+427,427,明智的,2022 6 15,míngzhìde,Sensible
+428,428,睡眠,2022 6 15,shùimián,Sleep
+429,429,睡眠质量,2022 6 15,shùimiánzhíliàng,Sleep quality
+430,430,失眠,2022 6 15,shīmián,Insomnia
+431,431,焦虑,2022 6 15,jiāolv̀,anxiety
+432,432,青少年,2022 6 15,qīngshǎonián,teenager
+433,433,控制欲,2022 6 15,kòngzhìyù,Desire
+434,434,我妈妈的控制欲很强,2022 6 15,wǒmāmādekòngzhìyùhěnqiáng,My mother's desire to control is very strong
+435,435,导航,2022 6 15,dǎoháng,navigation
+436,436,无序,2022 6 15,wúxù,Disorderly
+437,437,创业,2022 6 15,chuàngyè,Entrepreneurship
+438,438,过程,2022 6 15,guòchéng,process
+439,439,解决,2022 6 15,jiějué,solve
+440,440,长远,2022 6 15,chángyuǎn,long
+441,441,人生哲学,2022 6 15,rénshēngzhéxué,Philosophy of life
+442,442,幸福感,2022 6 15,xìngfúgǎn,Happiness
+443,443,荔枝,2022 6 10,lìzhī,litchi
+444,444,绿色食品商店,2022 6 10,lv̀sèshípǐnshāngdiàn,Green Food Store
+445,445,年代,2022 6 10,niándài,Era
+446,446,后,2022 6 10,hòu,back
+447,447,吸收新鲜的事物,2022 6 10,xīshōuxīnxiāndeshìwù,Absorb fresh things
+448,448,工程师,2022 6 10,gōngchéngshī,engineer
+449,449,程序员,2022 6 10,chéngxùyuán,programmer
+450,450,歧视,2022 6 10,qíshì,discriminate
+451,451,才能,2022 6 10,cáinéng,Talent
+452,452,天赋,2022 6 10,tiānfù,talent
+453,453,职位,2022 6 10,zhíwèi,Position
+454,454,收入,2022 6 10,shōurù,income
+455,455,移民,2022 6 10,yímín,migrant
+456,456,第一代,2022 6 10,dìyīdài,First generation
+457,457,非技术性的,2022 6 10,fēijìzhúxìngde,Non -technical
+458,458,土地,2022 6 10,tǔdì,land
+459,459,发展,2022 6 10,fāzhǎn,develop
+460,460,开发,2022 6 10,kāifā,Develop
+461,461,未开发的,2022 6 10,wèikāifāde,undeveloped
+462,462,私人的,2022 6 10,sīrénde,private
+463,463,单身,2022 6 10,dānshēn,single
+464,464,缘分,2022 6 10,yuánfēn,fate
+465,465,遇见对的人是缘分,2022 6 10,yùjiàndùiderénshìyuánfēn,The person who meets the right is fate
+466,466,了解喝茶的入门简单了解茶桌礼仪哔哩哔哩,2022 6 8,lejiěhēcháderùménjiǎndānlejiěcházhuōlǐyíbìlībìlī,"Learn about the introduction of tea, simply understand the tea table etiquette Bilibili"
+467,467,中国茶文化有很多礼仪这些礼仪往往都伴随着悠久的历史背景所以我们喝茶时需要注意这些礼仪,2022 6 8,zhōngguócháwénhuàyǒuhěnduōlǐyízhèxiēlǐyíwǎngwǎngdūbànsúizháoyōujǐudelìshǐbèijǐngsuǒyǐwǒmenhēcháshíxūyàozhùyìzhèxiēlǐyí,"There are many etiquettes in Chinese tea culture. These etiquettes are often accompanied by a long historical background, so we need to pay attention to these etiquette when drinking tea"
+468,468,往往,2022 6 8,wǎngwǎng,often
+469,469,悠久的历史,2022 6 8,yōujǐudelìshǐ,a long history
+470,470,今天我们来聊一聊喝茶时需要注意的小细节,2022 6 8,jīntiānwǒmenláiliáoyīliáohēcháshíxūyàozhùyìdexiǎoxìjié,"Today, let's talk about the small details that need attention when drinking tea"
+471,471,中国茶文化绝不仅仅是泡一杯好茶,2022 6 8,zhōngguócháwénhuàjuébùjǐnjǐnshìpàoyībēihǎochá,Chinese tea culture is more than just making a good cup of tea
+472,472,不仅仅,2022 6 8,bùjǐnjǐn,Not only
+473,473,泡茶,2022 6 8,pàochá,Tea
+474,474,还伴随着很多茶礼仪,2022 6 8,huánbànsúizháohěnduōchálǐyí,Also accompanied by many tea etiquette
+475,475,这绝对不是穷讲究,2022 6 8,zhèjuédùibùshìqióngjiǎngjīu,This is definitely not poor
+476,476,穷讲究,2022 6 8,qióngjiǎngjīu,Puzzle
+477,477,而是在漫长的茶文化发展过程中约定俗成的行为,2022 6 8,érshìzàimànchángdecháwénhuàfāzhǎnguòchéngzhōngyuēdìngsúchéngdexíngwèi,"Instead, the behavior that agreed in the long tea culture development process"
+478,478,过程中,2022 6 8,guòchéngzhōng,In the process
+479,479,起码出去喝茶时人家一看知道我们是具备一些茶文化底蕴的,2022 6 8,qǐmǎchūqùhēcháshírénjiāyīkànzhīdàowǒmenshìjùbèiyīxiēcháwénhuàdǐyùnde,"At least when they go out to drink tea, they see that we have some tea culture."
+480,480,起码至少,2022 6 8,qǐmǎzhìshǎo,At least at least
+481,481,具备,2022 6 8,jùbèi,have
+482,482,而不是任人忽悠的小白,2022 6 8,érbùshìrènrénhūyōudexiǎobái,"Instead of being flickering, Xiaobai"
+483,483,任人,2022 6 8,rènrén,Apparent
+484,484,忽悠,2022 6 8,hūyōu,Flickering
+485,485,经常有人问倒茶如何回礼很多人用说谢谢或者举杯子扶杯子的方式但是这样的礼节不适用于喝茶通常我们会用叩手礼来作为喝茶回礼,2022 6 8,jīngchángyǒurénwèndǎochárúhéhúilǐhěnduōrényòngshuōxièxièhuòzhějǔbēizǐfúbēizǐdefāngshìdànshìzhèyángdelǐjiébùshìyòngyúhēchátōngchángwǒmenhùiyòngkòushǒulǐláizuòwèihēcháhúilǐ,"Some people often ask how to return tea to gifts. Many people use thank you or raise a cup to support the cup, but this kind of etiquette is not suitable for drinking tea. Usually, we will use the hand to drink tea as a gift."
+486,486,我被问过最多的一个问题就是当别人给我倒茶时我该怎么样去回礼,2022 6 8,wǒbèiwènguòzùiduōdeyīgèwèntíjìushìdāngbiéréngěiwǒdǎocháshíwǒgāizěnyāoyángqùhúilǐ,One of the most questions I have asked is how I should go back to the gift when others pour me tea.
+487,487,第一种是说谢谢,2022 6 8,dìyīzhǒngshìshuōxièxiè,The first is to say thank you
+488,488,说谢谢当然没有问题,2022 6 8,shuōxièxièdāngránméiyǒuwèntí,"Thank you, of course there is no problem"
+489,489,可以当你和朋友正聊的热火朝天,2022 6 8,kěyǐdāngnǐhépéngyǒuzhèngliáoderèhuǒzhāotiān,You can talk to the Heat of you and your friends.
+490,490,我倒茶给你你出于礼貌对我所谢谢,2022 6 8,wǒdǎochágěinǐnǐchūyúlǐmàodùiwǒsuǒxièxiè,I pour tea for you to thank me for politeness
+491,491,这个时候你和朋友的聊天就被迫中止了,2022 6 8,zhègèshíhòunǐhépéngyǒudeliáotiānjìubèipòzhōngzhǐle,"At this time, your chat with your friend is forced to suspend"
+492,492,大多数人说完谢谢以后的下一句就是,2022 6 8,dàduōshùrénshuōwánxièxièyǐhòudexiàyījùjìushì,Most people have said thank you for the next sentence in the future is
+493,493,诶我刚才正在说什么来着我刚才说到哪了,2022 6 8,āiwǒgāngcáizhèngzàishuōshíyāoláizháowǒgāngcáishuōdàonǎle,"Eh, what I was talking about just now, where did I just say?"
+494,494,第二种呢是在倒茶时用双手端起杯子,2022 6 8,dìèrzhǒngníshìzàidǎocháshíyòngshuāngshǒuduānqǐbēizǐ,The second is to pick up the cup with both hands when pouring tea
+495,495,第一这样很烫手,2022 6 8,dìyīzhèyánghěntàngshǒu,The first is so hot
+496,496,第二万一我手抖的话会把汤汁滴落到你的手上,2022 6 8,dìèrwànyīwǒshǒudǒudehuàhùibǎtāngzhīdīluòdàonǐdeshǒushàng,"If I shake in my hand, I will drop the soup to your hand"
+497,497,还有用手去扶杯子也是同理,2022 6 8,huányǒuyòngshǒuqùfúbēizǐyěshìtónglǐ,It is also the same as to support the cup with your hands
+498,498,那我们全国通用的一个手势,2022 6 8,nàwǒmenquánguótōngyòngdeyīgèshǒushì,Then one gesture of our nationwide
+499,499,回礼的手势就是叩手礼,2022 6 8,húilǐdeshǒushìjìushìkòushǒulǐ,The gesture of returning gifts is to rit
+500,500,叩首礼来源于一个关于乾隆皇帝的故事,2022 6 8,kòushǒulǐláiyuányúyīgèguānyúgānlónghuángdìdegùshì,The first ceremony comes from a story about the Emperor Qianlong
+501,501,相传乾隆皇帝下江南微服私访时去到当地一个茶馆,2022 6 8,xiāngchuángānlónghuángdìxiàjiāngnánwēifúsīfǎngshíqùdàodāngdìyīgècháguǎn,"According to legend, Emperor Qianlong went to a local teahouse when he went to Jiangnan Micro -service"
+502,502,店小二行云流水的表演了一套长流壶茶艺,2022 6 8,diànxiǎoèrxíngyúnlíushǔidebiǎoyǎnleyītàochánglíuhúcháyì,The shop Xiaofeyun Yun Liu Shui performed a set of long -flowing pot tea art
+503,503,这种茶艺在我国的四川地区至今还很常见,2022 6 8,zhèzhǒngcháyìzàiwǒguódesìchuāndìqūzhìjīnhuánhěnchángjiàn,This kind of tea art is still common in Sichuan region in my country
+504,504,讲究,2022 6 8,jiǎngjīu,Extension
+505,505,我爸爸是个讲究人,2022 6 8,wǒbàbàshìgèjiǎngjīurén,My dad is a person who pays attention to
+506,506,中国人讲究喝茶,2022 6 8,zhōngguórénjiǎngjīuhēchá,Chinese people pay attention to tea
+507,507,喝茶有很多讲究,2022 6 8,hēcháyǒuhěnduōjiǎngjīu,There are a lot of attention to drink tea
+508,508,晚辈,2022 6 8,wǎnbèi,younger generation
+509,509,长辈,2022 6 8,chángbèi,elder
+510,510,同辈,2022 6 8,tóngbèi,peer
+511,511,回礼,2022 6 8,húilǐ,Return salute
+512,512,注意力差,2022 6 1,zhùyìlìchà,Worse
+513,513,相关的,2022 6 1,xiāngguānde,related
+514,514,相关的话题,2022 6 1,xiāngguāndehuàtí,Related topics
+515,515,动作,2022 6 1,dòngzuò,action
+516,516,俯卧撑,2022 6 1,fǔwòchēng,push ups
+517,517,训练胸部肌肉,2022 6 1,xùnliànxiōngbùjīròu,Training chest muscles
+518,518,训练有氧的能力,2022 6 1,xùnliànyǒuyǎngdenénglì,The ability to train aerobic
+519,519,无氧训练,2022 6 1,wúyǎngxùnliàn,Anaerobic training
+520,520,三组俯卧撑,2022 6 1,sānzǔfǔwòchēng,Three groups
+521,521,每组个,2022 6 1,měizǔgè,Per group
+522,522,健身单车,2022 6 1,jiànshēndānchē,Fitness bicycle
+523,523,我每天骑分钟健身单车,2022 6 1,wǒměitiānqífēnzhōngjiànshēndānchē,I ride a minute of fitness bicycles every day
+524,524,跑步机,2022 6 1,pǎobùjī,Treadmill
+525,525,心肌,2022 6 1,xīnjī,Myocardium
+526,526,心肺,2022 6 1,xīnfèi,Heart and lung
+527,527,有氧运动,2022 6 1,yǒuyǎngyùndòng,Aerobic exercise
+528,528,椭圆机,2022 6 1,tuǒyuánjī,Elliptical machine
+529,529,手臂,2022 6 1,shǒubì,arm
+530,530,身高,2022 6 1,shēngāo,height
+531,531,米,2022 6 1,mǐ,Meter
+532,532,体重,2022 6 1,tǐzhòng,weight
+533,533,器械,2022 6 1,qìxiè,instrument
+534,534,冲刺,2022 6 1,chōngcì,Sprint
+535,535,百米冲刺,2022 6 1,bǎimǐchōngcì,100 -meter sprint
+536,536,小孩子,2022 6 1,xiǎoháizǐ,child
+537,537,力量训练,2022 6 1,lìliàngxùnliàn,Strength Training
+538,538,平均地训练肌肉群语法,2022 6 1,píngjūndìxùnliànjīròuqúnyǔfǎ,Average training muscle group grammar
+539,539,平均温度平均收入,2022 6 1,píngjūnwēndùpíngjūnshōurù,Average temperature average income
+540,540,平均提高,2022 6 1,píngjūntígāo,Average improvement
+541,541,腹部肌肉,2022 6 1,fùbùjīròu,Abdominal muscles
+542,542,腹肌,2022 6 1,fùjī,Abdominal muscle
+543,543,卧推,2022 6 1,wòtūi,Bench press
+544,544,弱,2022 6 1,ruò,weak
+545,545,天生,2022 6 1,tiānshēng,Born
+546,546,泳姿,2022 6 1,yǒngzī,Swimming posture
+547,547,自由泳,2022 6 1,zìyóuyǒng,Free swimming
+548,548,蛙泳,2022 6 1,wāyǒng,breaststroke
+549,549,蝶泳,2022 6 1,diéyǒng,Butterfly
+550,550,姿势很美,2022 6 1,zīshìhěnměi,Beautiful posture
+551,551,仰泳,2022 6 1,yǎngyǒng,Backstroke
+552,552,划船机,2022 6 1,huáchuánjī,Rowing machine
+553,553,手臂力量,2022 6 1,shǒubìlìliàng,Armor
+554,554,引体向上,2022 6 1,yǐntǐxiàngshàng,Tag up
+555,555,举重,2022 6 1,jǔzhòng,weightlifting
+556,556,健美,2022 6 1,jiànměi,Fit
+557,557,部位,2022 6 1,bùwèi,Site
+558,558,普拉提,2022 6 1,pǔlātí,Pilate
+559,559,瑜伽球,2022 6 1,yúqiéqíu,Yoga ball
+560,560,保持个小时的睡眠,2022 6 1,bǎochígèxiǎoshídeshùimián,Keep an hour's sleep

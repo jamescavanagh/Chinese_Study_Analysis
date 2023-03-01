@@ -1,0 +1,215 @@
+
+{'radical': '一', 'number': 1, 'meaning': '[one, a, an, alone]', 'pinyin': 'yi1', 'variants': False, 'hemaCode': '11'}
+{'radical': '丨', 'number': 2, 'meaning': '[number one, line]', 'pinyin': 'gun3', 'variants': False, 'hemaCode': '21'}
+{'radical': '丿', 'number': 4, 'meaning': '[slash, line]', 'pinyin': 'pie3', 'variants': '[乀 (fu2), 乁(yi2)]', 'hemaCode': '41'}
+{'radical': '乙', 'number': 5, 'meaning': '[second, 2nd heavenly stem]', 'pinyin': 'yi4', 'variants': '[乚 (yin3), 乛]', 'hemaCode': '11'}
+{'radical': '亅', 'number': 6, 'meaning': '[hook]', 'pinyin': 'jue2', 'variants': False, 'hemaCode': '21'}
+{'radical': '丶', 'number': 3, 'meaning': '[dot]', 'pinyin': 'zhu3', 'variants': False, 'hemaCode': '51'}
+{'radical': '二', 'number': 7, 'meaning': '[two, twice]', 'pinyin': 'er4', 'variants': False, 'hemaCode': '11 11'}
+{'radical': '亠', 'number': 8, 'meaning': '[lid, head]', 'pinyin': 'tou2', 'variants': False, 'hemaCode': '51 11'}
+{'radical': '人', 'number': 9, 'meaning': '[man, people, mankind, someone else]', 'pinyin': 'ren2', 'variants': '[亻]', 'hemaCode': '43'}
+{'radical': '儿', 'number': 10, 'meaning': '[legs, son, child]', 'pinyin': 'er2', 'variants': False, 'hemaCode': '42'}
+{'radical': '入', 'number': 11, 'meaning': '[enter, come in(to), join]', 'pinyin': 'ru4', 'variants': False, 'hemaCode': '43'}
+{'radical': '八', 'number': 12, 'meaning': '[eight, all around, all sides]', 'pinyin': 'ba1', 'variants': '[丷]', 'hemaCode': '43'}
+{'radical': '冂', 'number': 13, 'meaning': '[down box, wide]', 'pinyin': 'jiong3', 'variants': False, 'hemaCode': '23'}
+{'radical': '冖', 'number': 14, 'meaning': '[over, cover]', 'pinyin': 'mi4', 'variants': False, 'hemaCode': '23'}
+{'radical': '冫', 'number': 15, 'meaning': '[ice]', 'pinyin': 'bing1', 'variants': False, 'hemaCode': '52'}
+{'radical': '几', 'number': 16, 'meaning': '[table, small table]', 'pinyin': 'ji1', 'variants': False, 'hemaCode': '44'}
+{'radical': '凵', 'number': 17, 'meaning': '[open box, receptacle]', 'pinyin': 'qu3', 'variants': False, 'hemaCode': '21'}
+{'radical': '刀', 'number': 18, 'meaning': '[knife, old coin, measure]', 'pinyin': 'dao1', 'variants': '[刂]', 'hemaCode': '14'}
+{'radical': '力', 'number': 19, 'meaning': '[power, capability, influence]', 'pinyin': 'li4', 'variants': False, 'hemaCode': '32'}
+{'radical': '勹', 'number': 20, 'meaning': '[wrap]', 'pinyin': 'bao1', 'variants': False, 'hemaCode': '44'}
+{'radical': '匕', 'number': 21, 'meaning': '[spoon, ladle, knife, dirk]', 'pinyin': 'bi3', 'variants': False, 'hemaCode': '42'}
+{'radical': '匚', 'number': 22, 'meaning': '[right open box, box]', 'pinyin': 'fang1', 'variants': False, 'hemaCode': '13'}
+{'radical': '匸', 'number': 23, 'meaning': '[hiding enclosure, box]', 'pinyin': 'xi3', 'variants': False, 'hemaCode': '13'}
+{'radical': '十', 'number': 24, 'meaning': '[ten, tenth, complete, perfect]', 'pinyin': 'shi2', 'variants': False, 'hemaCode': '31'}
+{'radical': '卜', 'number': 25, 'meaning': '[mysticism, fortune telling, prophesy]', 'pinyin': 'bu3', 'variants': False, 'hemaCode': '21 51'}
+{'radical': '卩', 'number': 26, 'meaning': '[seal]', 'pinyin': 'jie2', 'variants': False, 'hemaCode': '13'}
+{'radical': '厂', 'number': 27, 'meaning': '[cliff, factory, workshop, radical 27]', 'pinyin': 'han4', 'variants': False, 'hemaCode': '14'}
+{'radical': '厶', 'number': 28, 'meaning': '[private, secret]', 'pinyin': 'si1', 'variants': False, 'hemaCode': '43'}
+{'radical': '又', 'number': 29, 'meaning': '[and, also, again, in addition]', 'pinyin': 'you4', 'variants': False, 'hemaCode': '14'}
+{'radical': '囗', 'number': 31, 'meaning': '[enclosure, erect, proud, upright, bald]', 'pinyin': 'wei2', 'variants': False, 'hemaCode': '24'}
+{'radical': '土', 'number': 32, 'meaning': '[soil, earth, items made of earth]', 'pinyin': 'tu3', 'variants': False, 'hemaCode': '32'}
+{'radical': '士', 'number': 33, 'meaning': '[scholar, gentleman, soldier]', 'pinyin': 'shi4', 'variants': False, 'hemaCode': '32'}
+{'radical': '夂', 'number': 34, 'meaning': '[go]', 'pinyin': 'zhi3 (top)', 'variants': False, 'hemaCode': '44'}
+{'radical': '夊', 'number': 35, 'meaning': '[go slowly]', 'pinyin': 'sui1 (bot\xadtom)', 'variants': False, 'hemaCode': '44'}
+{'radical': '夕', 'number': 36, 'meaning': '[evening, night, dusk, slanted]', 'pinyin': 'xi1', 'variants': False, 'hemaCode': '44'}
+{'radical': '大', 'number': 37, 'meaning': '[big, great, vast, large, high]', 'pinyin': 'da4', 'variants': False, 'hemaCode': '34'}
+{'radical': '女', 'number': 38, 'meaning': '[woman, girl, feminine]', 'pinyin': 'nü3', 'variants': False, 'hemaCode': '44'}
+{'radical': '子', 'number': 39, 'meaning': '[offspring, child, fruit, seed of, 1st terrestrial branch]', 'pinyin': 'zi3', 'variants': False, 'hemaCode': '15'}
+{'radical': '宀', 'number': 40, 'meaning': '[roof]', 'pinyin': 'mian2', 'variants': False, 'hemaCode': '51 23'}
+{'radical': '寸', 'number': 41, 'meaning': '[inch, small, tiny]', 'pinyin': 'cun4', 'variants': False, 'hemaCode': '31 51'}
+{'radical': '小', 'number': 42, 'meaning': '[small, tiny, insignificant]', 'pinyin': 'xiao3', 'variants': False, 'hemaCode': '54'}
+{'radical': '尢', 'number': 43, 'meaning': '[lame, weak]', 'pinyin': 'wang1', 'variants': '[尣]', 'hemaCode': '44'}
+{'radical': '尸', 'number': 44, 'meaning': '[corpse, to impersonate the dead, to preside]', 'pinyin': 'shi1', 'variants': False, 'hemaCode': '12 41'}
+{'radical': '屮', 'number': 45, 'meaning': '[sprout]', 'pinyin': 'che4', 'variants': False, 'hemaCode': '22 21 41'}
+{'radical': '山', 'number': 46, 'meaning': '[mountain, hill, peak]', 'pinyin': 'shan1', 'variants': False, 'hemaCode': '22 21'}
+{'radical': '川', 'number': 47, 'meaning': '[stream, river, flow, boil]', 'pinyin': 'chuan1', 'variants': '[巛, 巜 (gui4)]', 'hemaCode': '42 21'}
+{'radical': '工', 'number': 48, 'meaning': '[labor, work, worker, laborer]', 'pinyin': 'gong1', 'variants': False, 'hemaCode': '15'}
+{'radical': '己', 'number': 49, 'meaning': '[self, oneself, personal, private, 6th heavenly stem]', 'pinyin': 'ji3', 'variants': False, 'hemaCode': '12 21'}
+{'radical': '巾', 'number': 50, 'meaning': '[kerchief, towel, turban]', 'pinyin': 'jin1', 'variants': False, 'hemaCode': '23 21'}
+{'radical': '干', 'number': 51, 'meaning': '[dry, oppose, offend, invade, dried]', 'pinyin': 'gan1', 'variants': False, 'hemaCode': '15'}
+{'radical': '幺', 'number': 52, 'meaning': '[short thread, one, tiny, small]', 'pinyin': 'yao1', 'variants': False, 'hemaCode': '43 51'}
+{'radical': '口', 'number': 30, 'meaning': '[mouth, open end, entrance, gate]', 'pinyin': 'kou3', 'variants': False, 'hemaCode': '24'}
+{'radical': '广', 'number': 53, 'meaning': '[dotted cliff, wide, extensive, broad, rad. 53]', 'pinyin': 'guan3', 'variants': False, 'hemaCode': '51 14'}
+{'radical': '廴', 'number': 54, 'meaning': '[long stride, go]', 'pinyin': 'yin3', 'variants': False, 'hemaCode': '14'}
+{'radical': '廾', 'number': 55, 'meaning': '[two hands]', 'pinyin': 'gong3', 'variants': False, 'hemaCode': '33'}
+{'radical': '弋', 'number': 56, 'meaning': '[shoot, catch, arrest, shoot with bow]', 'pinyin': 'yi4', 'variants': False, 'hemaCode': '32 51'}
+{'radical': '弓', 'number': 57, 'meaning': '[bow, curved, arched]', 'pinyin': 'gong1', 'variants': False, 'hemaCode': '12 21'}
+{'radical': '彐', 'number': 58, 'meaning': '[snout]', 'pinyin': 'ji4', 'variants': '[彑]', 'hemaCode': '12 12 '}
+{'radical': '彡', 'number': 59, 'meaning': '[bristle, hair]', 'pinyin': 'shan1', 'variants': False, 'hemaCode': '41 41 41'}
+{'radical': '彳', 'number': 60, 'meaning': '[step, step with left foot, rad. no 60]', 'pinyin': 'chi4', 'variants': False, 'hemaCode': '42'}
+{'radical': '心', 'number': 61, 'meaning': '[heart, mind, intelligence, soul]', 'pinyin': 'xin1', 'variants': '[忄]', 'hemaCode': '55'}
+{'radical': '戈', 'number': 62, 'meaning': '[halberd, spear, lance, rad. 62]', 'pinyin': 'ge1', 'variants': False, 'hemaCode': '34 51'}
+{'radical': '戶', 'number': 63, 'meaning': '[door, family, household]', 'pinyin': 'hu4', 'variants': False, 'hemaCode': '41 12 41'}
+{'radical': '手', 'number': 64, 'meaning': '[hand]', 'pinyin': 'shou3', 'variants': '[扌]', 'hemaCode': '41 11 31'}
+{'radical': '支', 'number': 65, 'meaning': '[disperse, pay, support, branch]', 'pinyin': 'zhi1', 'variants': False, 'hemaCode': '31 14'}
+{'radical': '攴', 'number': 66, 'meaning': '[rap, tap lightly]', 'pinyin': 'pu1', 'variants': '[攵]', 'hemaCode': '21 25'}
+{'radical': '文', 'number': 67, 'meaning': '[script, literature, culture, writing]', 'pinyin': 'wen2', 'variants': False, 'hemaCode': '51 11 43'}
+{'radical': '斗', 'number': 68, 'meaning': '[dipper, Chinese peck, liquid measure]', 'pinyin': 'dou3', 'variants': False, 'hemaCode': '52 31'}
+{'radical': '斤', 'number': 69, 'meaning': '[axe, a catty (approximately 600 g), an axe, keen, shrewd]', 'pinyin': 'jin1', 'variants': False, 'hemaCode': '41 41 13'}
+{'radical': '方', 'number': 70, 'meaning': '[square, a square, rectangle, a region, local]', 'pinyin': 'fang1', 'variants': False, 'hemaCode': '51 11 44'}
+{'radical': '无', 'number': 71, 'meaning': '[negative, no, not]', 'pinyin': 'wu2', 'variants': False, 'hemaCode': '11 34'}
+{'radical': '日', 'number': 72, 'meaning': '[sun, day, daytime]', 'pinyin': 'ri4', 'variants': False, 'hemaCode': '25'}
+{'radical': '曰', 'number': 73, 'meaning': '[say]', 'pinyin': 'yue1', 'variants': False, 'hemaCode': '25 '}
+{'radical': '月', 'number': 74, 'meaning': '[moon, month]', 'pinyin': 'yue4', 'variants': False, 'hemaCode': '23 11 11'}
+{'radical': '木', 'number': 75, 'meaning': '[tree, wood, lumber, wooden]', 'pinyin': 'mu4', 'variants': False, 'hemaCode': '34'}
+{'radical': '欠', 'number': 76, 'meaning': '[owe, lack, be deficient]', 'pinyin': 'qian4', 'variants': False, 'hemaCode': '45'}
+{'radical': '止', 'number': 77, 'meaning': '[stop, halt, desist, detain]', 'pinyin': 'zhi3', 'variants': False, 'hemaCode': '21 22 11'}
+{'radical': '殳', 'number': 79, 'meaning': '[weapon, name of old weapon, kill, rad. 79]', 'pinyin': 'shu1', 'variants': False, 'hemaCode': '44 14'}
+{'radical': '毋', 'number': 80, 'meaning': '[do not, not, surname, rad. 80]', 'pinyin': 'wu2', 'variants': False, 'hemaCode': '44 11 52'}
+{'radical': '比', 'number': 81, 'meaning': '[compare, to compare, liken, comparison, than]', 'pinyin': 'bi3', 'variants': False, 'hemaCode': '21 11 42'}
+{'radical': '毛', 'number': 82, 'meaning': '[hair, fur, feathers, coarse]', 'pinyin': 'mao2', 'variants': False, 'hemaCode': '41 11 31'}
+{'radical': '氏', 'number': 83, 'meaning': '[clan, family, mister]', 'pinyin': 'shi4', 'variants': False, 'hemaCode': '42 32'}
+{'radical': '气', 'number': 84, 'meaning': '[steam, vapor]', 'pinyin': 'qi4', 'variants': False, 'hemaCode': '41 11 11'}
+{'radical': '水', 'number': 85, 'meaning': '[water, liquid, lotion, juice]', 'pinyin': 'shui3', 'variants': '[氵]', 'hemaCode': '21 53'}
+{'radical': '火', 'number': 86, 'meaning': '[fire, flame, burn, anger, rage]', 'pinyin': 'huo3', 'variants': '[灬]', 'hemaCode': '54'}
+{'radical': '爪', 'number': 87, 'meaning': '[claw, nail, talon, animal feet]', 'pinyin': 'zhao3', 'variants': '[爫]', 'hemaCode': '41 41 21'}
+{'radical': '父', 'number': 88, 'meaning': '[father]', 'pinyin': 'fu4', 'variants': False, 'hemaCode': '43 43'}
+{'radical': '爻', 'number': 89, 'meaning': '[double x, diagrams for divination]', 'pinyin': 'yao2', 'variants': False, 'hemaCode': '31 31'}
+{'radical': '爿', 'number': 90, 'meaning': '[half tree trunk, half of tree trunk]', 'pinyin': 'pan2, qiang2', 'variants': '[丬]', 'hemaCode': '32'}
+{'radical': '片', 'number': 91, 'meaning': '[slice, splinter, strip, rad. 91]', 'pinyin': 'pian4', 'variants': False, 'hemaCode': '41 22 11'}
+{'radical': '牙', 'number': 92, 'meaning': '[fang, tooth, molars, teeth, serrated]', 'pinyin': 'ya2', 'variants': False, 'hemaCode': '13 21 41'}
+{'radical': '牛', 'number': 93, 'meaning': '[cow, ox, bull]', 'pinyin': 'niu2', 'variants': '[牜]', 'hemaCode': '45'}
+{'radical': '犬', 'number': 94, 'meaning': '[dog, radical number 94]', 'pinyin': 'quan3', 'variants': '[犭]', 'hemaCode': '34 51'}
+{'radical': '歹', 'number': 78, 'meaning': '[death, bad, vicious, depraved, wicked]', 'pinyin': 'dai3', 'variants': False, 'hemaCode': '11 44'}
+{'radical': '玄', 'number': 95, 'meaning': '[deep, profound, abstruse]', 'pinyin': 'xuan2', 'variants': False, 'hemaCode': '51 11 33'}
+{'radical': '玉', 'number': 96, 'meaning': '[jade, precious stone, gem]', 'pinyin': 'yu4', 'variants': '[王]', 'hemaCode': '15 51'}
+{'radical': '瓜', 'number': 97, 'meaning': '[melon, gourd, cucumber]', 'pinyin': 'gua1', 'variants': False, 'hemaCode': '41 41 21'}
+{'radical': '瓦', 'number': 98, 'meaning': '[tile, earthenware pottery, girl]', 'pinyin': 'wa3', 'variants': False, 'hemaCode': '11 44 51'}
+{'radical': '甘', 'number': 99, 'meaning': '[sweetness, sweet, tasty]', 'pinyin': 'gan1', 'variants': False, 'hemaCode': '33 11 11'}
+{'radical': '生', 'number': 100, 'meaning': '[life, living, lifetime, birth]', 'pinyin': 'sheng1', 'variants': False, 'hemaCode': '41 11 32'}
+{'radical': '用', 'number': 101, 'meaning': '[use, employ, apply, operate, use]', 'pinyin': 'yong4', 'variants': False, 'hemaCode': '23 11 31'}
+{'radical': '田', 'number': 102, 'meaning': '[field, arable land, cultivated]', 'pinyin': 'tian2', 'variants': False, 'hemaCode': '25'}
+{'radical': '疋', 'number': 103, 'meaning': '[roll, bolt of cloth, foot]', 'pinyin': 'pi3', 'variants': False, 'hemaCode': '15 43'}
+{'radical': '疒', 'number': 104, 'meaning': '[sickness, sick]', 'pinyin': 'chuang2', 'variants': False, 'hemaCode': '55'}
+{'radical': '癶', 'number': 105, 'meaning': '[dotted tent, legs]', 'pinyin': 'bo4', 'variants': False, 'hemaCode': '14 43'}
+{'radical': '白', 'number': 106, 'meaning': '[white, pure, unblemished, bright]', 'pinyin': 'bai2', 'variants': False, 'hemaCode': '41 25'}
+{'radical': '皮', 'number': 107, 'meaning': '[skin, hide, fur, feather, outer]', 'pinyin': 'pi2', 'variants': False, 'hemaCode': '14 21 14'}
+{'radical': '皿', 'number': 108, 'meaning': '[dish, shallow container, rad. no. 108]', 'pinyin': 'min3', 'variants': False, 'hemaCode': '23 21 21'}
+{'radical': '目', 'number': 109, 'meaning': '[eye, look, see, division, topic]', 'pinyin': 'mu4', 'variants': False, 'hemaCode': '25'}
+{'radical': '矛', 'number': 110, 'meaning': '[spear, lance]', 'pinyin': 'mao2', 'variants': False, 'hemaCode': '14 13 41'}
+{'radical': '矢', 'number': 111, 'meaning': '[arrow, dart, vow, swear]', 'pinyin': 'shi3', 'variants': False, 'hemaCode': '35 '}
+{'radical': '石', 'number': 112, 'meaning': '[stone, rock, mineral]', 'pinyin': 'shi2', 'variants': False, 'hemaCode': '35'}
+{'radical': '示', 'number': 113, 'meaning': '[spirit, show, manifest, demonstrate]', 'pinyin': 'shi4', 'variants': '[礻]', 'hemaCode': '55'}
+{'radical': '禸', 'number': 114, 'meaning': '[track, rump]', 'pinyin': 'rou3', 'variants': False, 'hemaCode': '23 43'}
+{'radical': '禾', 'number': 115, 'meaning': '[grain, grain still on stalk, rice plant]', 'pinyin': 'he2', 'variants': False, 'hemaCode': '41 34'}
+{'radical': '穴', 'number': 116, 'meaning': '[cave, den, hole]', 'pinyin': 'xue4', 'variants': False, 'hemaCode': '51 23 43'}
+{'radical': '立', 'number': 117, 'meaning': '[stand, let stand, establish, set]', 'pinyin': 'li4', 'variants': False, 'hemaCode': '55 11'}
+{'radical': '至', 'number': 133, 'meaning': '[reach, arrive, extremely, very]', 'pinyin': 'zhi4', 'variants': False, 'hemaCode': '11 43 32'}
+{'radical': '竹', 'number': 118, 'meaning': '[bamboo, flute]', 'pinyin': 'zhu2', 'variants': '[⺮]', 'hemaCode': '41 13 41'}
+{'radical': '缶', 'number': 121, 'meaning': '[earthen crock or jar]', 'pinyin': 'fou3', 'variants': False, 'hemaCode': '41 15 22'}
+{'radical': '网', 'number': 122, 'meaning': '[net, network]', 'pinyin': 'wang3', 'variants': '[罒]', 'hemaCode': '23 43 43'}
+{'radical': '羊', 'number': 123, 'meaning': '[sheep, goat]', 'pinyin': 'yang2', 'variants': False, 'hemaCode': '52 15'}
+{'radical': '羽', 'number': 124, 'meaning': '[feather, plume, wings]', 'pinyin': 'yu3', 'variants': False, 'hemaCode': '12 12'}
+{'radical': '老', 'number': 125, 'meaning': '[old, aged, experienced]', 'pinyin': 'lao3', 'variants': False, 'hemaCode': '32 41 42'}
+{'radical': '而', 'number': 126, 'meaning': '[and, and then, and yet, but]', 'pinyin': 'er2', 'variants': False, 'hemaCode': '11 23 21'}
+{'radical': '耒', 'number': 127, 'meaning': '[handle of plow, plow]', 'pinyin': 'lei3', 'variants': False, 'hemaCode': '11 34'}
+{'radical': '耳', 'number': 128, 'meaning': '[ear, merely, only, handle]', 'pinyin': 'er3', 'variants': False, 'hemaCode': '15'}
+{'radical': '聿', 'number': 129, 'meaning': '[brush, writing brush, pencil, thereupon]', 'pinyin': 'yu4', 'variants': False, 'hemaCode': '12 31 11'}
+{'radical': '肉', 'number': 130, 'meaning': '[flesh, meat]', 'pinyin': 'rou4', 'variants': False, 'hemaCode': '23 43 43'}
+{'radical': '臣', 'number': 131, 'meaning': '[minister, statesman, official]', 'pinyin': 'chen2', 'variants': False, 'hemaCode': '13 21 12'}
+{'radical': '自', 'number': 132, 'meaning': '[self, private, personal, from]', 'pinyin': 'zi4', 'variants': False, 'hemaCode': '41 25'}
+{'radical': '纟', 'number': 120, 'meaning': '[silk]', 'pinyin': 'mi4', 'variants': False, 'traditional': '糸', 'hemaCode': '43'}
+{'radical': '臼', 'number': 134, 'meaning': '[mortar, bone joint socket, Kangzi radical 134]', 'pinyin': 'jiu4', 'variants': False, 'hemaCode': '45'}
+{'radical': '舌', 'number': 135, 'meaning': '[tongue, clapper of bell]', 'pinyin': 'she2', 'variants': False, 'hemaCode': '41 31 24'}
+{'radical': '舛', 'number': 136, 'meaning': '[oppose, deviate, be contrary to]', 'pinyin': 'chuan3', 'variants': False, 'hemaCode': '44 13 13'}
+{'radical': '舟', 'number': 137, 'meaning': '[boat, ship]', 'pinyin': 'zhou1', 'variants': False, 'hemaCode': '41 23 52'}
+{'radical': '艮', 'number': 138, 'meaning': '[stopping, seventh of eight trigrams]', 'pinyin': 'gen4', 'variants': False, 'hemaCode': '12 43'}
+{'radical': '色', 'number': 139, 'meaning': '[color, tint, hue, shade, form, body, beauty, desire for beauty]', 'pinyin': 'se4', 'variants': False, 'hemaCode': '44 12 21'}
+{'radical': '艸', 'number': 140, 'meaning': '[grass]', 'pinyin': 'cao3', 'variants': '[艹]', 'hemaCode': '31 22'}
+{'radical': '虍', 'number': 141, 'meaning': '[tiger]', 'pinyin': 'hu1', 'variants': False, 'hemaCode': '45 44'}
+{'radical': '虫', 'number': 142, 'meaning': '[insect, insects, worms]', 'pinyin': 'chong2', 'variants': False, 'hemaCode': '45'}
+{'radical': '血', 'number': 143, 'meaning': '[blood]', 'pinyin': 'xue3', 'variants': False, 'hemaCode': '41 23 21'}
+{'radical': '行', 'number': 144, 'meaning': '[walk enclosure, go, walk, move, travel, circulate]', 'pinyin': 'xing2', 'variants': False, 'hemaCode': '42 11 13'}
+{'radical': '衣', 'number': 145, 'meaning': '[clothes, clothing, cover, skin]', 'pinyin': 'yi1', 'variants': '[衤]', 'hemaCode': '51 42 43'}
+{'radical': '襾', 'number': 146, 'meaning': '[west, cover]', 'pinyin': 'ya4', 'variants': '[覀]', 'hemaCode': '11 21 23'}
+{'radical': '米', 'number': 119, 'meaning': '[rice, hulled or husked uncooked rice]', 'pinyin': 'mi3', 'variants': False, 'hemaCode': '35'}
+{'radical': '见', 'number': 147, 'meaning': '[see, observe, behold, perceive]', 'pinyin': 'jian4', 'variants': False, 'traditional': '見', 'hemaCode': '25 42'}
+{'radical': '角', 'number': 148, 'meaning': '[horn, angle, corner, point]', 'pinyin': 'jue2', 'variants': False, 'hemaCode': '44 23 31'}
+{'radical': '讠', 'number': 149, 'meaning': '[words, speech, speak, say]', 'pinyin': 'yan2', 'variants': False, 'traditional': '言', 'hemaCode': '52'}
+{'radical': '谷', 'number': 150, 'meaning': '[valley, gorge, ravine]', 'pinyin': 'gu3', 'variants': False, 'hemaCode': '43 43 24'}
+{'radical': '豆', 'number': 151, 'meaning': '[bean, beans, peas, bean-shaped]', 'pinyin': 'dou4', 'variants': False, 'hemaCode': '11 24 52'}
+{'radical': '豕', 'number': 152, 'meaning': '[pig, a pig, boar]', 'pinyin': 'shi3', 'variants': False, 'hemaCode': '45'}
+{'radical': '豸', 'number': 153, 'meaning': '[badger, legless insect-like animal, worm]', 'pinyin': 'zhi4', 'variants': False, 'hemaCode': '41 52 45'}
+{'radical': '贝', 'number': 154, 'meaning': '[shell, sea shell, money, currency]', 'pinyin': 'bei4', 'variants': False, 'traditional': '貝', 'hemaCode': '25 43'}
+{'radical': '赤', 'number': 155, 'meaning': '[red, bare]', 'pinyin': 'chi4', 'variants': False, 'hemaCode': '32 54'}
+{'radical': '走', 'number': 156, 'meaning': '[walk, go on foot, run, leave]', 'pinyin': 'zou3', 'variants': False, 'hemaCode': '32 21 43'}
+{'radical': '⻊', 'number': 157, 'meaning': '[foot, attain, satisfy, enough]', 'pinyin': 'zu2', 'variants': False, 'traditional': '足', 'hemaCode': '24 21 22'}
+{'radical': '身', 'number': 158, 'meaning': '[body, trunk, hull]', 'pinyin': 'shen1', 'variants': False, 'hemaCode': '41 23 11'}
+{'radical': '车', 'number': 159, 'meaning': '[cart, vehicle, carry in a cart]', 'pinyin': 'che1', 'variants': False, 'traditional': '車', 'hemaCode': '35'}
+{'radical': '辛', 'number': 160, 'meaning': '[bitter, toilsome, laborious, 8th heavenly stem]', 'pinyin': 'xin1', 'variants': False, 'hemaCode': '55 15'}
+{'radical': '辰', 'number': 161, 'meaning': '[morning, early morning, 5th terrestrial branch]', 'pinyin': 'chen2', 'variants': False, 'hemaCode': '14 13 43'}
+{'radical': '辵', 'number': 162, 'meaning': '[walk, walking]', 'pinyin': 'chuo4', 'variants': '[辶]', 'hemaCode': '41 21 34'}
+{'radical': '邑', 'number': 163, 'meaning': '[area, district, city, state]', 'pinyin': 'yi4', 'variants': '[阝 (right)]', 'hemaCode': '24 12 21'}
+{'radical': '酉', 'number': 164, 'meaning': '[wine, a wine vessel, 10th terrestrial branch]', 'pinyin': 'you3', 'variants': False, 'hemaCode': '11 42 24'}
+{'radical': '釆', 'number': 165, 'meaning': '[distinguish]', 'pinyin': 'bian4', 'variants': False, 'hemaCode': '41 35'}
+{'radical': '里', 'number': 166, 'meaning': '[unit of distance, village, lane]', 'pinyin': 'li3', 'variants': False, 'hemaCode': '25 32'}
+{'radical': '金', 'number': 167, 'meaning': '[gold, metals in general, money]', 'pinyin': 'jin1', 'variants': False, 'hemaCode': '35'}
+{'radical': '长', 'number': 168, 'meaning': '[long, length, excel in, leader]', 'pinyin': 'chang2', 'variants': False, 'traditional': '長', 'hemaCode': '41 31 51'}
+{'radical': '阜', 'number': 170, 'meaning': '[mound, abundant, ample, numerous]', 'pinyin': 'fu4', 'variants': '[阝 (left)]', 'hemaCode': '42 12 31'}
+{'radical': '隶', 'number': 171, 'meaning': '[slave, subservient, servant]', 'pinyin': 'dai4', 'variants': False, 'hemaCode': '12 31 53'}
+{'radical': '隹', 'number': 172, 'meaning': '[short tailed bird, short-tailed bird]', 'pinyin': 'zhui1', 'variants': False, 'hemaCode': '42 51 15'}
+{'radical': '雨', 'number': 173, 'meaning': '[rain, rainy]', 'pinyin': 'yu3', 'variants': False, 'hemaCode': '13 23 53'}
+{'radical': '青', 'number': 174, 'meaning': '[blue, green, young]', 'pinyin': 'qing1', 'variants': False, 'hemaCode': '11 32 23'}
+{'radical': '非', 'number': 175, 'meaning': '[wrong, not, negative, non-, oppose]', 'pinyin': 'fei1', 'variants': False, 'hemaCode': '21 11 21'}
+{'radical': '门', 'number': 169, 'meaning': '[gate, door, entrance, opening]', 'pinyin': 'men2', 'variants': False, 'traditional': '門', 'hemaCode': '51 23'}
+{'radical': '风', 'number': 182, 'meaning': '[wind, air, manners, atmosphere]', 'pinyin': 'feng1', 'variants': False, 'traditional': '風', 'hemaCode': '44 43'}
+{'radical': '革', 'number': 177, 'meaning': '[leather, animal hides]', 'pinyin': 'ge2', 'variants': False, 'hemaCode': '33 24 31'}
+{'radical': '韭', 'number': 179, 'meaning': '[scallion, leek]', 'pinyin': 'jiu3', 'variants': False, 'hemaCode': '21 11 21'}
+{'radical': '音', 'number': 180, 'meaning': '[sound, tone, pitch, pronunciation]', 'pinyin': 'yin1', 'variants': False, 'hemaCode': '55 11 25'}
+{'radical': '页', 'number': 181, 'meaning': '[page, sheet, leaf]', 'pinyin': 'ye4', 'variants': False, 'traditional': '頁', 'hemaCode': '11 25 43'}
+{'radical': '面', 'number': 176, 'meaning': '[face, surface, plane, side, dimension]', 'pinyin': 'mian4', 'variants': False, 'hemaCode': '11 25 11'}
+{'radical': '飞', 'number': 183, 'meaning': '[fly, go quickly, dart, high]', 'pinyin': 'fei1', 'variants': False, 'traditional': '飛', 'hemaCode': '11 43'}
+{'radical': '饣', 'number': 184, 'meaning': '[eat, meal, food]', 'pinyin': 'shi2', 'variants': '[飠]', 'traditional': '食', 'hemaCode': '44'}
+{'radical': '首', 'number': 185, 'meaning': '[head, first, leader, chief, a poem]', 'pinyin': 'shou3', 'variants': False, 'hemaCode': '52 11 25'}
+{'radical': '香', 'number': 186, 'meaning': '[fragrant, sweet-smelling, incense]', 'pinyin': 'xiang1', 'variants': False, 'hemaCode': '41 34 25'}
+{'radical': '韦', 'number': 178, 'meaning': '[tanned leather, surname]', 'pinyin': 'wei2', 'variants': False, 'traditional': '韋', 'hemaCode': '11 13 11'}
+{'radical': '马', 'number': 187, 'meaning': '[horse, surname]', 'pinyin': 'ma3', 'variants': False, 'traditional': '馬', 'hemaCode': '45 11'}
+{'radical': '骨', 'number': 188, 'meaning': '[bone, skeleton, frame, framework]', 'pinyin': 'gu3', 'variants': False, 'hemaCode': '23 23 23'}
+{'radical': '高', 'number': 189, 'meaning': '[high, tall, lofty, elevated]', 'pinyin': 'gao1', 'variants': False, 'hemaCode': '51 24 23'}
+{'radical': '髟', 'number': 190, 'meaning': '[hair]', 'pinyin': 'biao1', 'variants': False, 'hemaCode': '13 41 41'}
+{'radical': '鬥', 'number': 191, 'meaning': '[struggle, fight, compete, contend]', 'pinyin': 'dou4', 'variants': False, 'hemaCode': '21 15 15'}
+{'radical': '鬯', 'number': 192, 'meaning': '[sacrificial wine, unhindered]', 'pinyin': 'chang4', 'variants': False, 'hemaCode': '43 22 42'}
+{'radical': '鬲', 'number': 193, 'meaning': '[cauldron, type of caldron with three hollow legs, name of a state]', 'pinyin': 'li4', 'variants': False, 'hemaCode': '24 23 52'}
+{'radical': '鬼', 'number': 194, 'meaning': '[ghost, spirit of dead, devil]', 'pinyin': 'gui3', 'variants': False, 'hemaCode': '25 42 43'}
+{'radical': '鱼', 'number': 195, 'meaning': '[fish, surname]', 'pinyin': 'yu2', 'variants': False, 'traditional': '魚', 'hemaCode': '45 31 11'}
+{'radical': '鹵', 'number': 197, 'meaning': '[salt, saline soil, natural salt, rock salt]', 'pinyin': 'lu3', 'variants': False, 'hemaCode': '21 24 43'}
+{'radical': '鹿', 'number': 198, 'meaning': '[deer, surname]', 'pinyin': 'lu4', 'variants': False, 'hemaCode': '45 21 42'}
+{'radical': '麦', 'number': 199, 'meaning': '[wheat, barley, oats]', 'pinyin': 'mai4', 'variants': False, 'traditional': '麥', 'hemaCode': '11 32 44'}
+{'radical': '麻', 'number': 200, 'meaning': '[hemp, jute, flax, sesame]', 'pinyin': 'ma2', 'variants': False, 'hemaCode': '14 34 34'}
+{'radical': '鸟', 'number': 196, 'meaning': '[bird]', 'pinyin': 'niao3', 'variants': False, 'traditional': '鳥', 'hemaCode': '45 51 11'}
+{'radical': '黃', 'number': 201, 'meaning': '[yellow, surname]', 'pinyin': 'huang2', 'variants': False, 'hemaCode': '33 25 43'}
+{'radical': '黍', 'number': 202, 'meaning': '[millet, glutinous millet]', 'pinyin': 'shu3', 'variants': False, 'hemaCode': '34 43 53'}
+{'radical': '黑', 'number': 203, 'meaning': '[black, dark, evil, sinister]', 'pinyin': 'hei1', 'variants': False, 'hemaCode': '24 32 54'}
+{'radical': '黹', 'number': 204, 'meaning': '[embroidery, needlework]', 'pinyin': 'zhi3', 'variants': False, 'hemaCode': '54 52 23'}
+{'radical': '黾', 'number': 205, 'meaning': '[frog, to strive, to endeavor]', 'pinyin': 'min3', 'variants': False, 'traditional': '黽', 'hemaCode': '24 25 21'}
+{'radical': '鼎', 'number': 206, 'meaning': '[tripod, large, three-legged bronze caldron]', 'pinyin': 'ding3', 'variants': False, 'hemaCode': '25 21 21'}
+{'radical': '鼓', 'number': 207, 'meaning': '[drum, beat, top, strike]', 'pinyin': 'gu3', 'variants': False, 'hemaCode': '32 52 31'}
+{'radical': '鼡', 'number': 208, 'meaning': '[rat, mouse]', 'pinyin': 'shu3', 'variants': False, 'traditional': '鼠', 'hemaCode': '53 44 15'}
+{'radical': '鼻', 'number': 209, 'meaning': '[nose, first]', 'pinyin': 'bi2', 'variants': False, 'hemaCode': '25 25 42'}
+{'radical': '齐', 'number': 210, 'meaning': '[even, uniform, of equal length]', 'pinyin': 'qi2', 'variants': False, 'traditional': '齊', 'hemaCode': '51 43 42'}
+{'radical': '齿', 'number': 211, 'meaning': '[tooth, teeth, gears, cogs, age]', 'pinyin': 'chi3', 'variants': False, 'traditional': '齒', 'hemaCode': '22 43 22'}
+{'radical': '龙', 'number': 212, 'meaning': '[dragon]', 'pinyin': 'long2', 'variants': False, 'traditional': '龍', 'hemaCode': '34 41 51'}
+{'radical': '龟', 'number': 213, 'meaning': '[turtle or tortoise, cuckold]', 'pinyin': 'gui1', 'variants': False, 'traditional': '龜', 'hemaCode': '45 31'}
+{'radical': '龠', 'number': 214, 'meaning': '[flute, pipe, ancient measure]', 'pinyin': 'yue4', 'variants': False, 'hemaCode': '43 24 23'}
